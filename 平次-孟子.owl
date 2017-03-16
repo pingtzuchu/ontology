@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/ping-tzuchu/ontologies/2017/2/mengzi"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/ping-tzuchu/ontologies/2017/2/mengzi">
+    <Prefix name="" IRI="http://www.semanticweb.org/ping-tzuchu/ontologies/2017/2/mengzi"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#篇"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#親屬關係"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#尚書"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#樂"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#反對"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#地理"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#說話方式"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#沼"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#靈沼"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#政治身分"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#家"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#獸"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#詩"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#民"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#政治結構"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#稱呼"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白鳥"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#叟"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#鳥"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#部分"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#詩_國風"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#動物"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#政治單位"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#梁惠王"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#見"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#之父為"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#魏"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#對曰"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#抽象概念"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#湯誓"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#名為"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#民"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#魏武侯"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#提倡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文王"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#章"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#仁義"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#情感"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#書_孟子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#魏惠王"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#庶人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#王"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#之子為"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#國"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#德目"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#孟子"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#賢者"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#周易"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#建築"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#魚類"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#義"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鼈"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#包含"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#代名詞"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#予"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#君"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#利"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#禽獸"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#曰"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#屬於"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#魚"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#仁"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#女"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#書籍"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#士"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#擁有"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鹿"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#交際方式"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雁"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#靈囿"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#大夫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#靈臺"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#不賢者"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#禽"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#禽"/>
+        <Class IRI="#鳥"/>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#不賢者"/>
+        <Class IRI="#稱呼"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#仁義"/>
+        <Class IRI="#德目"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#代名詞"/>
+        <Class IRI="#稱呼"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#叟"/>
+        <Class IRI="#稱呼"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#君"/>
+        <Class IRI="#政治身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#國"/>
+        <Class IRI="#政治單位"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#士"/>
+        <Class IRI="#政治身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#大夫"/>
+        <Class IRI="#政治身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#家"/>
+        <Class IRI="#政治單位"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#庶人"/>
+        <Class IRI="#政治身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#德目"/>
+        <Class IRI="#抽象概念"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#政治單位"/>
+        <Class IRI="#政治結構"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#政治身分"/>
+        <Class IRI="#政治結構"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#民"/>
+        <Class IRI="#政治身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#獸"/>
+        <Class IRI="#禽獸"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#王"/>
+        <Class IRI="#政治身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#禽"/>
+        <Class IRI="#禽獸"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#禽獸"/>
+        <Class IRI="#動物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#章"/>
+        <Class IRI="#部分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#篇"/>
+        <Class IRI="#部分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#賢者"/>
+        <Class IRI="#稱呼"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#部分"/>
+        <Class IRI="#書籍"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#魏"/>
+        <Class IRI="#國"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#魚類"/>
+        <Class IRI="#動物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#鳥"/>
+        <Class IRI="#禽獸"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#代名詞"/>
+        <NamedIndividual IRI="#予"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#仁義"/>
+        <NamedIndividual IRI="#仁"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#抽象概念"/>
+        <NamedIndividual IRI="#利"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代名詞"/>
+        <NamedIndividual IRI="#女"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#孟子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#叟"/>
+        <NamedIndividual IRI="#孟子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#士"/>
+        <NamedIndividual IRI="#孟子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#賢者"/>
+        <NamedIndividual IRI="#孟子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#文王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍"/>
+        <NamedIndividual IRI="#書_孟子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#梁惠王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#王"/>
+        <NamedIndividual IRI="#梁惠王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#魏"/>
+        <NamedIndividual IRI="#梁惠王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#情感"/>
+        <NamedIndividual IRI="#樂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地理"/>
+        <NamedIndividual IRI="#沼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#篇"/>
+        <NamedIndividual IRI="#湯誓"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#禽"/>
+        <NamedIndividual IRI="#白鳥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#仁義"/>
+        <NamedIndividual IRI="#義"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍"/>
+        <NamedIndividual IRI="#詩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#部分"/>
+        <NamedIndividual IRI="#詩_國風"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#禽"/>
+        <NamedIndividual IRI="#雁"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#建築"/>
+        <NamedIndividual IRI="#靈囿"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#建築"/>
+        <NamedIndividual IRI="#靈沼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#建築"/>
+        <NamedIndividual IRI="#靈臺"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#魏武侯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#魏"/>
+        <NamedIndividual IRI="#魏武侯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#魚類"/>
+        <NamedIndividual IRI="#魚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#獸"/>
+        <NamedIndividual IRI="#鹿"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#魚類"/>
+        <NamedIndividual IRI="#鼈"/>
+    </ClassAssertion>
+    <SameIndividual>
+        <NamedIndividual IRI="#梁惠王"/>
+        <NamedIndividual IRI="#魏惠王"/>
+    </SameIndividual>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#反對"/>
+        <NamedIndividual IRI="#孟子"/>
+        <NamedIndividual IRI="#利"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#對曰"/>
+        <NamedIndividual IRI="#孟子"/>
+        <NamedIndividual IRI="#梁惠王"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#提倡"/>
+        <NamedIndividual IRI="#孟子"/>
+        <NamedIndividual IRI="#仁"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#提倡"/>
+        <NamedIndividual IRI="#孟子"/>
+        <NamedIndividual IRI="#義"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#見"/>
+        <NamedIndividual IRI="#孟子"/>
+        <NamedIndividual IRI="#梁惠王"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#擁有"/>
+        <NamedIndividual IRI="#文王"/>
+        <NamedIndividual IRI="#靈囿"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#擁有"/>
+        <NamedIndividual IRI="#文王"/>
+        <NamedIndividual IRI="#靈沼"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#擁有"/>
+        <NamedIndividual IRI="#文王"/>
+        <NamedIndividual IRI="#靈臺"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#之父為"/>
+        <NamedIndividual IRI="#梁惠王"/>
+        <NamedIndividual IRI="#魏武侯"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#曰"/>
+        <NamedIndividual IRI="#梁惠王"/>
+        <NamedIndividual IRI="#孟子"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#湯誓"/>
+        <NamedIndividual IRI="#尚書"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#詩_國風"/>
+        <NamedIndividual IRI="#詩"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#名為"/>
+        <NamedIndividual IRI="#孟子"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">軻</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#名為"/>
+        <NamedIndividual IRI="#梁惠王"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">罃</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#之子為"/>
+        <ObjectProperty IRI="#親屬關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#之父為"/>
+        <ObjectProperty IRI="#親屬關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#交際方式"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#反對"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#對曰"/>
+        <ObjectProperty IRI="#說話方式"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#屬於"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#提倡"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#擁有"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#曰"/>
+        <ObjectProperty IRI="#說話方式"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#見"/>
+        <ObjectProperty IRI="#交際方式"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#說話方式"/>
+        <ObjectProperty IRI="#交際方式"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#之子為"/>
+        <ObjectProperty IRI="#之父為"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#包含"/>
+        <ObjectProperty IRI="#屬於"/>
+    </InverseObjectProperties>
+    <AsymmetricObjectProperty>
+        <ObjectProperty IRI="#反對"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#之父為"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#交際方式"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#包含"/>
+        <Class IRI="#書籍"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#反對"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#屬於"/>
+        <Class IRI="#部分"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#提倡"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#擁有"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#見"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#之父為"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#交際方式"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#包含"/>
+        <Class IRI="#部分"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#反對"/>
+        <Class IRI="#抽象概念"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#屬於"/>
+        <Class IRI="#書籍"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#提倡"/>
+        <Class IRI="#抽象概念"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#擁有"/>
+        <Class IRI="#建築"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#見"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#名為"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="#名為"/>
+        <Class IRI="#人"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#名為"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
