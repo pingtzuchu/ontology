@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/黃雅稚/ontologies/2017/1/《情天無恨‧究竟相空》"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/黃雅稚/ontologies/2017/1/《情天無恨‧究竟相空》">
+    <Prefix name="" IRI="http://www.semanticweb.org/黃雅稚/ontologies/2017/1/《情天無恨‧究竟相空》"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#小青"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#被渡者"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#老畢"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#四揭諦降魔真神"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#非人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#是否臻美"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#法海"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#完美的性體（絕對者）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#許宣"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#九頭蒼鸆"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#十八伽藍神"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#有限的個體"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#藉外在超越"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#老詹"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#四天王"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白素貞"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#無可相救"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#西王母"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人物（主要角色與次要角色）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑鯉精七星道人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#斯芬克士"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#從內在超越"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#渡人者"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#人"/>
+        <Class IRI="#人物（主要角色與次要角色）"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#完美的性體（絕對者）"/>
+        <Class IRI="#是否臻美"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#從內在超越"/>
+        <Class IRI="#有限的個體"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#有限的個體"/>
+        <Class IRI="#是否臻美"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#渡人者"/>
+        <Class IRI="#從內在超越"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#無可相救"/>
+        <Class IRI="#有限的個體"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#藉外在超越"/>
+        <Class IRI="#有限的個體"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#被渡者"/>
+        <Class IRI="#從內在超越"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#非人"/>
+        <Class IRI="#人物（主要角色與次要角色）"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#九頭蒼鸆"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#十八伽藍神"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#四天王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#四揭諦降魔真神"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#小青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#斯芬克士"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#法海"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#白素貞"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#老畢"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#老詹"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#完美的性體（絕對者）"/>
+        <NamedIndividual IRI="#西王母"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#許宣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#非人"/>
+        <NamedIndividual IRI="#黑鯉精七星道人"/>
+    </ClassAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

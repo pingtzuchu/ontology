@@ -1,0 +1,1802 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/lily/ontologies/2017/2/yinyang"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/lily/ontologies/2017/2/yinyang">
+    <Prefix name="" IRI="http://www.semanticweb.org/lily/ontologies/2017/2/yinyang"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#苦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冬"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#狀態"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#食"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#木"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#形"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#六十"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#甘"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#喜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#呻"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#羽"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#形體"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#徵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#味"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#生理機制"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#志"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#皮毛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#脈"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#腫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#天"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#皮表"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#火"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#上為"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#精"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#骨髓"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#薄"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#內守"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#呼"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#肝"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#主導關係"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#笑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#藏"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#勝"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黃"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#生"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#肉"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#音"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#躁"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秋"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#特性歸於"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#上"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#心"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#動力來自"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#清"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#質態"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#厚"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#孔竅"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#傷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#化"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#量態"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#主"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#發熱"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#創造性"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鹹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#生成關係"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#東"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#恐"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#哭"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#極而生"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#方位"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#憂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#血"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#生"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#上出"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#燥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#泄"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#土"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#成"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#合作關係"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#在天"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#臟腑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蒼"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#北"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#下為"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#辛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#目"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#互動關係"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#濕"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#地"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#夏"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#四時"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#欬"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#憂_變動"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#藥食"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#噦"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#歸"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五十"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#濁"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#西"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#中央"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#體"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#骨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#風"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#五行"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#熱"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#在地"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#寒"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#追溯性"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#腎"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#角"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#因果關係"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#長"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#年齡"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#季節"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#活躍度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#商"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#舌"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#下"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#脾"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#四肢"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#春"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#口"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#腠理"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#思"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#下出"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陰"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#收"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#肺"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#殺"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#南"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#痛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#上竅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#悲"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#外使"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#酸"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#赤"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#筋"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#味"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#飧泄"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#純度"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#臟"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#發泄（汗出）"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#生成自"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#化"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鼻"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#靜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#怒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#通"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#熱能"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#耳"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#積而為"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#四十"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#色"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#聲"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#自然"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#歌"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#（月真）脹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#則"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#慄"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#動作"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#陰陽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#氣"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#走向"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#握"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#竅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雲"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#病理症狀"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#下竅"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#臟腑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#水"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#變動"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#味"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#在地"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#在天"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#孔竅"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#季節"/>
+        <Class IRI="#四時"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#年齡"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#形體"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#志"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#方位"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#活躍度"/>
+        <Class IRI="#狀態"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#熱能"/>
+        <Class IRI="#狀態"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#皮表"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#竅"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#純度"/>
+        <Class IRI="#狀態"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#聲"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#臟"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#臟腑"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#自然"/>
+        <Class IRI="#物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#色"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#藥食"/>
+        <Class IRI="#物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#變動"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#質態"/>
+        <Class IRI="#藥食"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#量態"/>
+        <Class IRI="#藥食"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#音"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#體"/>
+        <Class IRI="#五行"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#孔竅"/>
+        <NamedIndividual IRI="#上竅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#孔竅"/>
+        <NamedIndividual IRI="#下竅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#方位"/>
+        <NamedIndividual IRI="#中央"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#年齡"/>
+        <NamedIndividual IRI="#五十"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#年齡"/>
+        <NamedIndividual IRI="#六十"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#季節"/>
+        <NamedIndividual IRI="#冬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#質態"/>
+        <NamedIndividual IRI="#化"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#方位"/>
+        <NamedIndividual IRI="#北"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#方位"/>
+        <NamedIndividual IRI="#南"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#量態"/>
+        <NamedIndividual IRI="#厚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#竅"/>
+        <NamedIndividual IRI="#口"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#質態"/>
+        <NamedIndividual IRI="#味"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#聲"/>
+        <NamedIndividual IRI="#呻"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#聲"/>
+        <NamedIndividual IRI="#呼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#聲"/>
+        <NamedIndividual IRI="#哭"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音"/>
+        <NamedIndividual IRI="#商"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#志"/>
+        <NamedIndividual IRI="#喜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#變動"/>
+        <NamedIndividual IRI="#噦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#年齡"/>
+        <NamedIndividual IRI="#四十"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#形體"/>
+        <NamedIndividual IRI="#四肢"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在地"/>
+        <NamedIndividual IRI="#土"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然"/>
+        <NamedIndividual IRI="#地"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#季節"/>
+        <NamedIndividual IRI="#夏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然"/>
+        <NamedIndividual IRI="#天"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音"/>
+        <NamedIndividual IRI="#宮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在天"/>
+        <NamedIndividual IRI="#寒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#熱能"/>
+        <NamedIndividual IRI="#寒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#物"/>
+        <NamedIndividual IRI="#形"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#質態"/>
+        <NamedIndividual IRI="#形"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音"/>
+        <NamedIndividual IRI="#徵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#臟"/>
+        <NamedIndividual IRI="#心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#志"/>
+        <NamedIndividual IRI="#怒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#志"/>
+        <NamedIndividual IRI="#思"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#志"/>
+        <NamedIndividual IRI="#恐"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#志"/>
+        <NamedIndividual IRI="#悲"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#變動"/>
+        <NamedIndividual IRI="#慄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#志"/>
+        <NamedIndividual IRI="#憂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#變動"/>
+        <NamedIndividual IRI="#憂_變動"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#變動"/>
+        <NamedIndividual IRI="#握"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動作"/>
+        <NamedIndividual IRI="#收"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#季節"/>
+        <NamedIndividual IRI="#春"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在地"/>
+        <NamedIndividual IRI="#木"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#方位"/>
+        <NamedIndividual IRI="#東"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#變動"/>
+        <NamedIndividual IRI="#欬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#聲"/>
+        <NamedIndividual IRI="#歌"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動作"/>
+        <NamedIndividual IRI="#殺"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#物"/>
+        <NamedIndividual IRI="#氣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#質態"/>
+        <NamedIndividual IRI="#氣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在地"/>
+        <NamedIndividual IRI="#水"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然"/>
+        <NamedIndividual IRI="#水"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#生理機制"/>
+        <NamedIndividual IRI="#泄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#純度"/>
+        <NamedIndividual IRI="#清"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#純度"/>
+        <NamedIndividual IRI="#濁"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在天"/>
+        <NamedIndividual IRI="#濕"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在地"/>
+        <NamedIndividual IRI="#火"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然"/>
+        <NamedIndividual IRI="#火"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在天"/>
+        <NamedIndividual IRI="#熱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#熱能"/>
+        <NamedIndividual IRI="#熱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在天"/>
+        <NamedIndividual IRI="#燥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#味"/>
+        <NamedIndividual IRI="#甘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#量態"/>
+        <NamedIndividual IRI="#甘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動作"/>
+        <NamedIndividual IRI="#生"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#病理症狀"/>
+        <NamedIndividual IRI="#痛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#生理機制"/>
+        <NamedIndividual IRI="#發泄（汗出）"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#生理機制"/>
+        <NamedIndividual IRI="#發熱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#色"/>
+        <NamedIndividual IRI="#白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#體"/>
+        <NamedIndividual IRI="#皮毛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#竅"/>
+        <NamedIndividual IRI="#目"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#季節"/>
+        <NamedIndividual IRI="#秋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#聲"/>
+        <NamedIndividual IRI="#笑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#體"/>
+        <NamedIndividual IRI="#筋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#質態"/>
+        <NamedIndividual IRI="#精"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音"/>
+        <NamedIndividual IRI="#羽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#竅"/>
+        <NamedIndividual IRI="#耳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#體"/>
+        <NamedIndividual IRI="#肉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#臟"/>
+        <NamedIndividual IRI="#肝"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#臟"/>
+        <NamedIndividual IRI="#肺"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#體"/>
+        <NamedIndividual IRI="#脈"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#臟"/>
+        <NamedIndividual IRI="#脾"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#臟"/>
+        <NamedIndividual IRI="#腎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#皮表"/>
+        <NamedIndividual IRI="#腠理"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#病理症狀"/>
+        <NamedIndividual IRI="#腫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#臟腑"/>
+        <NamedIndividual IRI="#臟腑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#竅"/>
+        <NamedIndividual IRI="#舌"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#味"/>
+        <NamedIndividual IRI="#苦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#量態"/>
+        <NamedIndividual IRI="#苦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#色"/>
+        <NamedIndividual IRI="#蒼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#量態"/>
+        <NamedIndividual IRI="#薄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動作"/>
+        <NamedIndividual IRI="#藏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#體"/>
+        <NamedIndividual IRI="#血"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#方位"/>
+        <NamedIndividual IRI="#西"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音"/>
+        <NamedIndividual IRI="#角"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#色"/>
+        <NamedIndividual IRI="#赤"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#活躍度"/>
+        <NamedIndividual IRI="#躁"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#味"/>
+        <NamedIndividual IRI="#辛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#量態"/>
+        <NamedIndividual IRI="#辛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#生理機制"/>
+        <NamedIndividual IRI="#通"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#味"/>
+        <NamedIndividual IRI="#酸"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#量態"/>
+        <NamedIndividual IRI="#酸"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在地"/>
+        <NamedIndividual IRI="#金"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動作"/>
+        <NamedIndividual IRI="#長"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#陰陽"/>
+        <NamedIndividual IRI="#陰"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#陰陽"/>
+        <NamedIndividual IRI="#陽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然"/>
+        <NamedIndividual IRI="#雨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然"/>
+        <NamedIndividual IRI="#雲"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#活躍度"/>
+        <NamedIndividual IRI="#靜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在天"/>
+        <NamedIndividual IRI="#風"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#病理症狀"/>
+        <NamedIndividual IRI="#飧泄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#體"/>
+        <NamedIndividual IRI="#骨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#體"/>
+        <NamedIndividual IRI="#骨髓"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#味"/>
+        <NamedIndividual IRI="#鹹"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#色"/>
+        <NamedIndividual IRI="#黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#色"/>
+        <NamedIndividual IRI="#黑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#竅"/>
+        <NamedIndividual IRI="#鼻"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#病理症狀"/>
+        <NamedIndividual IRI="#（月真）脹"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#中央"/>
+        <NamedIndividual IRI="#濕"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#化"/>
+        <NamedIndividual IRI="#精"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#北"/>
+        <NamedIndividual IRI="#寒"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#南"/>
+        <NamedIndividual IRI="#熱"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#下出"/>
+        <NamedIndividual IRI="#味"/>
+        <NamedIndividual IRI="#下竅"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#味"/>
+        <NamedIndividual IRI="#形"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#味"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#歸"/>
+        <NamedIndividual IRI="#味"/>
+        <NamedIndividual IRI="#形"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#味"/>
+        <NamedIndividual IRI="#陰"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#喜"/>
+        <NamedIndividual IRI="#心"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#喜"/>
+        <NamedIndividual IRI="#憂"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#土"/>
+        <NamedIndividual IRI="#甘"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#上為"/>
+        <NamedIndividual IRI="#地"/>
+        <NamedIndividual IRI="#雲"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#下為"/>
+        <NamedIndividual IRI="#天"/>
+        <NamedIndividual IRI="#雨"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#寒"/>
+        <NamedIndividual IRI="#形"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#寒"/>
+        <NamedIndividual IRI="#血"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#寒"/>
+        <NamedIndividual IRI="#熱"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#極而生"/>
+        <NamedIndividual IRI="#寒"/>
+        <NamedIndividual IRI="#熱"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#寒"/>
+        <NamedIndividual IRI="#水"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#寒"/>
+        <NamedIndividual IRI="#濁"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#歸"/>
+        <NamedIndividual IRI="#形"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#食"/>
+        <NamedIndividual IRI="#形"/>
+        <NamedIndividual IRI="#味"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主"/>
+        <NamedIndividual IRI="#心"/>
+        <NamedIndividual IRI="#舌"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#心"/>
+        <NamedIndividual IRI="#血"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#怒"/>
+        <NamedIndividual IRI="#肝"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#怒"/>
+        <NamedIndividual IRI="#思"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#思"/>
+        <NamedIndividual IRI="#脾"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#思"/>
+        <NamedIndividual IRI="#恐"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#恐"/>
+        <NamedIndividual IRI="#腎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#恐"/>
+        <NamedIndividual IRI="#喜"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#悲"/>
+        <NamedIndividual IRI="#怒"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#憂"/>
+        <NamedIndividual IRI="#肺"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#木"/>
+        <NamedIndividual IRI="#酸"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#東"/>
+        <NamedIndividual IRI="#風"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#動力來自"/>
+        <NamedIndividual IRI="#殺"/>
+        <NamedIndividual IRI="#陽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#上出"/>
+        <NamedIndividual IRI="#氣"/>
+        <NamedIndividual IRI="#上竅"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#氣"/>
+        <NamedIndividual IRI="#精"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#歸"/>
+        <NamedIndividual IRI="#氣"/>
+        <NamedIndividual IRI="#精"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#氣"/>
+        <NamedIndividual IRI="#陽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#氣"/>
+        <NamedIndividual IRI="#形"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#水"/>
+        <NamedIndividual IRI="#陰"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#水"/>
+        <NamedIndividual IRI="#鹹"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#上為"/>
+        <NamedIndividual IRI="#清"/>
+        <NamedIndividual IRI="#天"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#清"/>
+        <NamedIndividual IRI="#陽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#走向"/>
+        <NamedIndividual IRI="#清"/>
+        <NamedIndividual IRI="#上竅"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#走向"/>
+        <NamedIndividual IRI="#清"/>
+        <NamedIndividual IRI="#四肢"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#走向"/>
+        <NamedIndividual IRI="#清"/>
+        <NamedIndividual IRI="#腠理"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#下為"/>
+        <NamedIndividual IRI="#濁"/>
+        <NamedIndividual IRI="#地"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#濁"/>
+        <NamedIndividual IRI="#陰"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#走向"/>
+        <NamedIndividual IRI="#濁"/>
+        <NamedIndividual IRI="#下竅"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#走向"/>
+        <NamedIndividual IRI="#濁"/>
+        <NamedIndividual IRI="#臟腑"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#濕"/>
+        <NamedIndividual IRI="#土"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#火"/>
+        <NamedIndividual IRI="#陽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#火"/>
+        <NamedIndividual IRI="#苦"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#熱"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#熱"/>
+        <NamedIndividual IRI="#皮毛"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#極而生"/>
+        <NamedIndividual IRI="#熱"/>
+        <NamedIndividual IRI="#寒"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#熱"/>
+        <NamedIndividual IRI="#清"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#熱"/>
+        <NamedIndividual IRI="#火"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#燥"/>
+        <NamedIndividual IRI="#寒"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#燥"/>
+        <NamedIndividual IRI="#風"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#燥"/>
+        <NamedIndividual IRI="#金"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#甘"/>
+        <NamedIndividual IRI="#肉"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#甘"/>
+        <NamedIndividual IRI="#鹹"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#甘"/>
+        <NamedIndividual IRI="#脾"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#動力來自"/>
+        <NamedIndividual IRI="#生"/>
+        <NamedIndividual IRI="#陽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#皮毛"/>
+        <NamedIndividual IRI="#腎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#筋"/>
+        <NamedIndividual IRI="#心"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#化"/>
+        <NamedIndividual IRI="#精"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#歸"/>
+        <NamedIndividual IRI="#精"/>
+        <NamedIndividual IRI="#化"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#食"/>
+        <NamedIndividual IRI="#精"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#肉"/>
+        <NamedIndividual IRI="#肺"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主"/>
+        <NamedIndividual IRI="#肝"/>
+        <NamedIndividual IRI="#目"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#肝"/>
+        <NamedIndividual IRI="#筋"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主"/>
+        <NamedIndividual IRI="#肺"/>
+        <NamedIndividual IRI="#鼻"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#肺"/>
+        <NamedIndividual IRI="#皮毛"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主"/>
+        <NamedIndividual IRI="#脾"/>
+        <NamedIndividual IRI="#口"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#脾"/>
+        <NamedIndividual IRI="#肉"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主"/>
+        <NamedIndividual IRI="#腎"/>
+        <NamedIndividual IRI="#耳"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#腎"/>
+        <NamedIndividual IRI="#骨髓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#苦"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#苦"/>
+        <NamedIndividual IRI="#辛"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#苦"/>
+        <NamedIndividual IRI="#心"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#動力來自"/>
+        <NamedIndividual IRI="#藏"/>
+        <NamedIndividual IRI="#陰"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#血"/>
+        <NamedIndividual IRI="#脾"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#西"/>
+        <NamedIndividual IRI="#燥"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#躁"/>
+        <NamedIndividual IRI="#陽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#辛"/>
+        <NamedIndividual IRI="#皮毛"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#辛"/>
+        <NamedIndividual IRI="#酸"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#辛"/>
+        <NamedIndividual IRI="#肺"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#酸"/>
+        <NamedIndividual IRI="#筋"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#酸"/>
+        <NamedIndividual IRI="#甘"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#酸"/>
+        <NamedIndividual IRI="#肝"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#金"/>
+        <NamedIndividual IRI="#辛"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#動力來自"/>
+        <NamedIndividual IRI="#長"/>
+        <NamedIndividual IRI="#陰"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#內守"/>
+        <NamedIndividual IRI="#陰"/>
+        <NamedIndividual IRI="#陽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#成"/>
+        <NamedIndividual IRI="#陰"/>
+        <NamedIndividual IRI="#形"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#積而為"/>
+        <NamedIndividual IRI="#陰"/>
+        <NamedIndividual IRI="#地"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#化"/>
+        <NamedIndividual IRI="#陽"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#外使"/>
+        <NamedIndividual IRI="#陽"/>
+        <NamedIndividual IRI="#陰"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#積而為"/>
+        <NamedIndividual IRI="#陽"/>
+        <NamedIndividual IRI="#天"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生成自"/>
+        <NamedIndividual IRI="#雨"/>
+        <NamedIndividual IRI="#地"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生成自"/>
+        <NamedIndividual IRI="#雲"/>
+        <NamedIndividual IRI="#天"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#特性歸於"/>
+        <NamedIndividual IRI="#靜"/>
+        <NamedIndividual IRI="#陰"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#風"/>
+        <NamedIndividual IRI="#筋"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#風"/>
+        <NamedIndividual IRI="#濕"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#風"/>
+        <NamedIndividual IRI="#木"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#骨髓"/>
+        <NamedIndividual IRI="#肝"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傷"/>
+        <NamedIndividual IRI="#鹹"/>
+        <NamedIndividual IRI="#血"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#勝"/>
+        <NamedIndividual IRI="#鹹"/>
+        <NamedIndividual IRI="#苦"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生"/>
+        <NamedIndividual IRI="#鹹"/>
+        <NamedIndividual IRI="#腎"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#上"/>
+        <ObjectProperty IRI="#走向"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#上出"/>
+        <ObjectProperty IRI="#上"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#上為"/>
+        <ObjectProperty IRI="#上"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#下"/>
+        <ObjectProperty IRI="#走向"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#下出"/>
+        <ObjectProperty IRI="#下"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#下為"/>
+        <ObjectProperty IRI="#下"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#主"/>
+        <ObjectProperty IRI="#主導關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#互動關係"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#傷"/>
+        <ObjectProperty IRI="#互動關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#內守"/>
+        <ObjectProperty IRI="#合作關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#則"/>
+        <ObjectProperty IRI="#因果關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#創造性"/>
+        <ObjectProperty IRI="#生成關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#動力來自"/>
+        <ObjectProperty IRI="#追溯性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#勝"/>
+        <ObjectProperty IRI="#互動關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#化"/>
+        <ObjectProperty IRI="#創造性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#外使"/>
+        <ObjectProperty IRI="#合作關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#成"/>
+        <ObjectProperty IRI="#創造性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#極而生"/>
+        <ObjectProperty IRI="#生"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#歸"/>
+        <ObjectProperty IRI="#追溯性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#特性歸於"/>
+        <ObjectProperty IRI="#追溯性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#生"/>
+        <ObjectProperty IRI="#創造性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#生成自"/>
+        <ObjectProperty IRI="#追溯性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#積而為"/>
+        <ObjectProperty IRI="#創造性"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#追溯性"/>
+        <ObjectProperty IRI="#生成關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#食"/>
+        <ObjectProperty IRI="#互動關係"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#動力來自"/>
+        <Class IRI="#動作"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#化"/>
+        <Class IRI="#陰陽"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#成"/>
+        <Class IRI="#陰陽"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#特性歸於"/>
+        <Class IRI="#狀態"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#生"/>
+        <Class IRI="#陰陽"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#積而為"/>
+        <Class IRI="#陰陽"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#走向"/>
+        <Class IRI="#純度"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#走向"/>
+        <Class IRI="#陰陽"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#動力來自"/>
+        <Class IRI="#陰陽"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#化"/>
+        <Class IRI="#物"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#成"/>
+        <Class IRI="#物"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#特性歸於"/>
+        <Class IRI="#陰陽"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#生"/>
+        <Class IRI="#物"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#積而為"/>
+        <Class IRI="#物"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#走向"/>
+        <Class IRI="#人"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

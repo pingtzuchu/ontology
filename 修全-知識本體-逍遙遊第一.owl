@@ -1,0 +1,1149 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-8"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-8">
+    <Prefix name="" IRI="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-8"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#越"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#聾者"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#堯"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#逍遙遊第一"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#時間"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#小知"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#掊"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#乘"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#知"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#繩墨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#无功"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#有蓬之心"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#不知其幾千里"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#植物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#穀"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#志怪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#樗"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#无己"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鯤"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#莊子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#三千里"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#內外之分"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#八千歲"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#至人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#列子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#處子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#越人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#神人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#治"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#定"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#无當"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#河漢"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#江湖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#楚之南"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#天下"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#湯"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#六月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#百里"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#千里"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#聖人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#春"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#狸狌"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#御"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#盛"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#小"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#菌類"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#行為"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#吳王"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#自然現象"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#无極"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大知"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#榆枋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#機辟"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#榮辱之境"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#國"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#無用"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大瓠之種"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#接輿"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#瓢"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冥靈大椿"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#魚"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#斤斧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#舜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#神凝"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#官"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#垂天之雲"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#飛龍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#非"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陶鑄"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#獸"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#偃鼠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#彭祖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#扶搖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#辯"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#天池"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五穀"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#惠子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#洴澼絖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#六氣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#廣莫之野"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#庖人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秕穅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#尸祝"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#君"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#器具"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#无何有之鄉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#北冥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#斷髮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#四海"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#學鳩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雨"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#稱號"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#政治"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#地理"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冷然"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#境界"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#斥鴳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#朝菌"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#生物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鵬"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋榮子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鄉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#資章甫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#日月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#數千里"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#姑射之山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#鳥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#汾水之陽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五百歲"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鷦鷯"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#譽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#小年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#傷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#棘"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#大"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#德"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#連叔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#窮髮之北"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#魏王"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#遊"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#敖者"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#逍遙"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#罔罟"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#天地"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文身"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#齊諧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大樽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#芥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#有所待"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蜩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#困苦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#南冥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#斄牛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#四子"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#昆蟲"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#規矩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#肩吾"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#晦朔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#无害"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#九萬里"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青天"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#大小"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冥海"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#瞽者"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#位置"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#匠者"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#貽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#三月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鼠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#許由"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雲氣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#无名"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#樹"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#徵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#平"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#人"/>
+        <Class IRI="#生物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#位置"/>
+        <Class IRI="#地理"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#器具"/>
+        <Class IRI="#逍遙遊第一"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#地理"/>
+        <Class IRI="#逍遙遊第一"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#境界"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#大"/>
+        <Class IRI="#大小"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#大小"/>
+        <Class IRI="#逍遙遊第一"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#小"/>
+        <Class IRI="#大小"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#政治"/>
+        <Class IRI="#逍遙遊第一"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#昆蟲"/>
+        <Class IRI="#生物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#時間"/>
+        <Class IRI="#逍遙遊第一"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#植物"/>
+        <Class IRI="#生物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#獸"/>
+        <Class IRI="#生物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#生物"/>
+        <Class IRI="#逍遙遊第一"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#稱號"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#自然現象"/>
+        <Class IRI="#逍遙遊第一"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#菌類"/>
+        <Class IRI="#生物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#行為"/>
+        <Class IRI="#人"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#魚"/>
+        <Class IRI="#生物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#鳥"/>
+        <Class IRI="#生物"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#大"/>
+        <NamedIndividual IRI="#三千里"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#三月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#大"/>
+        <NamedIndividual IRI="#不知其幾千里"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#乘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#大"/>
+        <NamedIndividual IRI="#九萬里"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#五穀"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#獸"/>
+        <NamedIndividual IRI="#偃鼠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#傷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#內外之分"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#八千歲"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#六月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#六氣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#冥海"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#冥靈大椿"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#冷然"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#列子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#北冥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#匠者"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#大"/>
+        <NamedIndividual IRI="#千里"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#南冥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#君"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#吳王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#四子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#四海"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#困苦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#國"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#垂天之雲"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#堯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#大年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#器具"/>
+        <NamedIndividual IRI="#大樽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#大瓠之種"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#大"/>
+        <NamedIndividual IRI="#大知"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#天下"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#天地"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#天池"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#姑射之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#鳥"/>
+        <NamedIndividual IRI="#學鳩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#宋人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#宋榮子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#定"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#小年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#小"/>
+        <NamedIndividual IRI="#小知"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#尸祝"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#平"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#平"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#庖人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#廣莫之野"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#彭祖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#御"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#徵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#德"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#志怪"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#惠子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#扶搖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#掊"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#接輿"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#獸"/>
+        <NamedIndividual IRI="#敖者"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#大"/>
+        <NamedIndividual IRI="#數千里"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#獸"/>
+        <NamedIndividual IRI="#斄牛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#文身"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#器具"/>
+        <NamedIndividual IRI="#斤斧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#鳥"/>
+        <NamedIndividual IRI="#斥鴳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#斷髮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#无何有之鄉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#无功"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#无名"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#无害"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#无己"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#无極"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#无當"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#日月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#日月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#春"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#晦朔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#有所待"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#有所待"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#有蓬之心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#菌類"/>
+        <NamedIndividual IRI="#朝菌"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#棘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#楚之南"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#榮辱之境"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#樗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#樹"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#器具"/>
+        <NamedIndividual IRI="#機辟"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#江湖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#汾水之陽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#河漢"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#治"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#治"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#洴澼絖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#湯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#無用"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#獸"/>
+        <NamedIndividual IRI="#狸狌"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#器具"/>
+        <NamedIndividual IRI="#瓢"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#大"/>
+        <NamedIndividual IRI="#百里"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#盛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#瞽者"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#知"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#稱號"/>
+        <NamedIndividual IRI="#神人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#神凝"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#時間"/>
+        <NamedIndividual IRI="#秋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#秕穅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#穀"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#窮髮之北"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#器具"/>
+        <NamedIndividual IRI="#繩墨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#器具"/>
+        <NamedIndividual IRI="#罔罟"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#稱號"/>
+        <NamedIndividual IRI="#聖人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#聾者"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#肩吾"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#稱號"/>
+        <NamedIndividual IRI="#至人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#舜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#小"/>
+        <NamedIndividual IRI="#芥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#植物"/>
+        <NamedIndividual IRI="#芥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#莊子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#稱號"/>
+        <NamedIndividual IRI="#處子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#小"/>
+        <NamedIndividual IRI="#蜩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#昆蟲"/>
+        <NamedIndividual IRI="#蜩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#器具"/>
+        <NamedIndividual IRI="#規矩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#許由"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#譽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#貽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#資章甫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#位置"/>
+        <NamedIndividual IRI="#越"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#越人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#辯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#境界"/>
+        <NamedIndividual IRI="#逍遙"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#連叔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#遊"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治"/>
+        <NamedIndividual IRI="#鄉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#陶鑄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#雨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#雲氣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#自然現象"/>
+        <NamedIndividual IRI="#青天"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行為"/>
+        <NamedIndividual IRI="#非"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#獸"/>
+        <NamedIndividual IRI="#飛龍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#魏王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#魚"/>
+        <NamedIndividual IRI="#鯤"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#鳥"/>
+        <NamedIndividual IRI="#鵬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#鳥"/>
+        <NamedIndividual IRI="#鷦鷯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#獸"/>
+        <NamedIndividual IRI="#鼠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#齊諧"/>
+    </ClassAssertion>
+    <SameIndividual>
+        <NamedIndividual IRI="#南冥"/>
+        <NamedIndividual IRI="#天池"/>
+    </SameIndividual>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

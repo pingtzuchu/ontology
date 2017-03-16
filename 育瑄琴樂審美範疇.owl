@@ -1,0 +1,557 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-5"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-5">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#緩_音色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#禁_內心"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#其中有"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#高_技巧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雅_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#古_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#清_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#巧_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#和_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#躁_內心"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#清_音色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#戚_內心"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#亂_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#長_技巧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#疏_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#中_音色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#遲_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#內心"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#韻短_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#憤_內心"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#憂_內心"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#但是"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#技巧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#亮_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#快_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#繁_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#密_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#急_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#平_風格"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#相對"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#和_內心"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#怨_內心"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#以及"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#短_技巧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#重_技巧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#靜_內心"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#清_內心"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#速_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#導致"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#順_技巧"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#溜_技巧"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#相應以"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鄭衛之聲_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#正_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#急_音色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#下_技巧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#傷歎_風格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#慢_節奏與速度"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#審美範疇"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#接著"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#輕_技巧"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#音色"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#內心"/>
+        <Class IRI="#審美範疇"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#技巧"/>
+        <Class IRI="#審美範疇"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#節奏與速度"/>
+        <Class IRI="#審美範疇"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#音色"/>
+        <Class IRI="#審美範疇"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#風格"/>
+        <Class IRI="#審美範疇"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#下_技巧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音色"/>
+        <NamedIndividual IRI="#中_音色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#亂_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#亮_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#傷歎_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#古_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#和_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#和_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#密_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#巧_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#平_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#快_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#急_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音色"/>
+        <NamedIndividual IRI="#急_音色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#怨_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#慢_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#憂_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#憤_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#戚_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#正_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#清_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音色"/>
+        <NamedIndividual IRI="#清_音色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#清_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#溜_技巧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#疏_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#短_技巧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#禁_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#音色"/>
+        <NamedIndividual IRI="#緩_音色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#繁_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#躁_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#輕_技巧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#速_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#節奏與速度"/>
+        <NamedIndividual IRI="#遲_節奏與速度"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#鄭衛之聲_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#重_技巧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#長_技巧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#雅_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#內心"/>
+        <NamedIndividual IRI="#靜_內心"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#風格"/>
+        <NamedIndividual IRI="#韻短_風格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#順_技巧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#技巧"/>
+        <NamedIndividual IRI="#高_技巧"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#下_技巧"/>
+        <NamedIndividual IRI="#高_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#中_音色"/>
+        <NamedIndividual IRI="#急_音色"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#中_音色"/>
+        <NamedIndividual IRI="#緩_音色"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#亮_風格"/>
+        <NamedIndividual IRI="#清_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#但是"/>
+        <NamedIndividual IRI="#亮_風格"/>
+        <NamedIndividual IRI="#韻短_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#傷歎_風格"/>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#和_內心"/>
+        <NamedIndividual IRI="#清_內心"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#和_風格"/>
+        <NamedIndividual IRI="#平_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其中有"/>
+        <NamedIndividual IRI="#密_節奏與速度"/>
+        <NamedIndividual IRI="#疏_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#密_節奏與速度"/>
+        <NamedIndividual IRI="#疏_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#但是"/>
+        <NamedIndividual IRI="#巧_風格"/>
+        <NamedIndividual IRI="#鄭衛之聲_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#平_風格"/>
+        <NamedIndividual IRI="#和_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#接著"/>
+        <NamedIndividual IRI="#急_節奏與速度"/>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#急_節奏與速度"/>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#急_音色"/>
+        <NamedIndividual IRI="#中_音色"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#清_內心"/>
+        <NamedIndividual IRI="#和_內心"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#清_音色"/>
+        <NamedIndividual IRI="#雅_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#清_風格"/>
+        <NamedIndividual IRI="#亮_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#但是"/>
+        <NamedIndividual IRI="#清_風格"/>
+        <NamedIndividual IRI="#韻短_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#溜_技巧"/>
+        <NamedIndividual IRI="#順_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其中有"/>
+        <NamedIndividual IRI="#疏_節奏與速度"/>
+        <NamedIndividual IRI="#密_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#疏_節奏與速度"/>
+        <NamedIndividual IRI="#密_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#短_技巧"/>
+        <NamedIndividual IRI="#長_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#導致"/>
+        <NamedIndividual IRI="#禁_內心"/>
+        <NamedIndividual IRI="#正_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+        <NamedIndividual IRI="#傷歎_風格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#接著"/>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+        <NamedIndividual IRI="#急_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#緩_節奏與速度"/>
+        <NamedIndividual IRI="#急_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#緩_音色"/>
+        <NamedIndividual IRI="#中_音色"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#輕_技巧"/>
+        <NamedIndividual IRI="#重_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#輕_技巧"/>
+        <NamedIndividual IRI="#重_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#速_節奏與速度"/>
+        <NamedIndividual IRI="#遲_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#遲_節奏與速度"/>
+        <NamedIndividual IRI="#速_節奏與速度"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相對"/>
+        <NamedIndividual IRI="#重_技巧"/>
+        <NamedIndividual IRI="#輕_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#重_技巧"/>
+        <NamedIndividual IRI="#輕_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#長_技巧"/>
+        <NamedIndividual IRI="#短_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以及"/>
+        <NamedIndividual IRI="#順_技巧"/>
+        <NamedIndividual IRI="#溜_技巧"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相應以"/>
+        <NamedIndividual IRI="#高_技巧"/>
+        <NamedIndividual IRI="#下_技巧"/>
+    </ObjectPropertyAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

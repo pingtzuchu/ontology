@@ -1,0 +1,4359 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2017/2/胡忠簡公神道碑"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/user/ontologies/2017/2/胡忠簡公神道碑">
+    <Prefix name="" IRI="http://www.semanticweb.org/user/ontologies/2017/2/胡忠簡公神道碑"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#紹興三十二年"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#非"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鄉人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宗正少卿"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#贈官"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#軍事動作"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#泛指作品"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#到官"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#奮"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#宣和"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#易"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宰執"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#本州幕官"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#知_地名"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#書籍作品"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#春秋集善"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#試"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興八年十一月"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#女性封贈"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#兵"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#辟"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#任官"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#北庭"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#諸路軍馬"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興三十二年十二月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#彈劾_by羅汝楫"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#一般活動"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李寶"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#戰敗"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#扞止"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興_無明確時間"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#上書"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#編管"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鄉先生"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#幼"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#驅迫"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#權"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#監廣州都鹽倉"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#未入仕"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王廷珪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#年二十"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#隆興元年七月"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#建炎"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#天下"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#字號封號"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興十二年七月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#周官解"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#易拾遺"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人物名稱"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#上奏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#待罪_by秦檜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#服"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#隆祐太后"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#一般動作"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#海"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#學禮編"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#廷對"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#康氏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#小人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#事件動作"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#昭州"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#代稱人物"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#配偶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#湖北茶鹽司幹辦公事"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#相關文書內容是"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋徽宗"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#和議"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#兩府"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#紹興"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#著"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#薨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#劉氏"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#奏請"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#孫近"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#發生地點在"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#給舍"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#傳誦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#廬陵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#狄"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#隆興元年四月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大學"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#取"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#本朝人物"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#責"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#廣州"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#狀態發生"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#做"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#情緒表達"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興八年十二月"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#留為"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#流放"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#代稱"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#和議"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金使"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李顯忠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陳康伯"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#經筵二禮講義"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#召赴"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#禮記解"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#執政"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#悍卒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#奏議"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#以為"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#軍事單位"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#仕進意"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#都堂"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#排"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#九重"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#攝官"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王之望"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#京師"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#知"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#年齡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興十二年"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#平定"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#正面"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#地籍是"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#地形"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賢良方正科"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五季"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#樞密院編修官"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#義士"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#春秋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#貪殘"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#被評價"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#澹庵老人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#淑人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#明確人物"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#餞行"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#孟子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#武夫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#左通直郎"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#維揚"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#都督"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#左文林郎"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王倫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#凶悖劫持"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#竄徙"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#吏"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#第賞"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#官軍"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#無"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#諫議大夫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#銓書專詆臣等，今和議已定，宜稍甄敘。"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賜對1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金陵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#朝士"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#詩話"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#判官"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#遐方"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#移動動作"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#簽書威武軍節度判官廳公事_到官"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#赴"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#歷時"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陳氏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#臺諫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#審查"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#侍講"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#耿南仲"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#名震天下"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#吉陽軍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#兵部尚書"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#外交動作"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#江陰"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#石晉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#和議1_紹興"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#避"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#浙東"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#孺人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#記注"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黃潛善"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#移"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#張氏2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#地名"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#又六年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#樞屬"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#廷對"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興七年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#扶世垂教"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#量移"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#中國"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#除官動作"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#勒停編管新州"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#纔一年"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#率"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#擢"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#六曹長貳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興二十五年冬"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#榮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興九年正月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陳敏"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#國家朝代"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#上"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#負面"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#時間年號"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興八年十一月辛亥"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#政治活動"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#其生母為"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#身分屬於"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#廷臣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蕭楚"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#衡州"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#尹穡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#詩_姦諛膽落"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#書"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#其父為"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#新州"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#推薦"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#身分是"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#伯夷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興五年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#張浚"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#入仕_官職相關"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#即位_孝宗"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#後二年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#福州"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#郡守"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興九年正月乙酉"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#求和"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#嶠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#劉豫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#不以死生介意"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#活國本草"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#改除"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#忠獻"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#國史編修官"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#撫州軍事判官"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胡愷"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#發生時間在"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#張氏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大臣"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#下旨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胡氏"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#授官"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興二十五年冬_未詳何時"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宿州"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#移吉陽軍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#珠崖"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#過"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#贛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#唐德宗"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秘書少監"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#行在所"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陳剛中"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胡銓"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#削籍"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#徙"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#裔士"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#督府"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#武王"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#其母為"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#忠簡"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#北伐"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#殺秦檜、王倫、孫近，拒絕和議"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#丁父憂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興七年四月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#張栻"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#請罪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#夜郎"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#情意感受"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#孔子"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#講學"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#政治結構"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#彈劾"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#狀態描述"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#抵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#彈劾_by張棣"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#改"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#怯者"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#踰"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#削籍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#承務郎"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#賦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#富弼"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#閱七年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#完顏亮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#晏敦復"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#汪伯彥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#守令"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胡載"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#廷對_by胡銓"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建炎二年"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#代稱_地理"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋高宗"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興二十六年"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#包含"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#浙西"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大中大夫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#待罪_by孫近"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#羅汝楫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#邦衡"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#評價內容"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#承直郎"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秦檜"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#兄弟"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興十一年六月"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#親屬關係"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鄉丁"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#步往"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#中國之不可輕"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#周宣王"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#興戰"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋欽宗"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#六一先生"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#考官"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#隆興"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#起居郎"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#監司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#饒州"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胡連"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#克"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胡鑄"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#靖康"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#宋以前"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#計算時間"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#韋太后"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#書解"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#權臣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#勇者"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#任官身分"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋孝宗"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#從"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#河南提點刑獄司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#隆興元年正月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#簽書威武軍節度判官廳公事"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#天子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#曾氏"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#相關文書內容"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#呂祉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#張棣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#將"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#歐陽修"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#主張"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#不群"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#怡然"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#解救"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#忠直"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#前朝人物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紹興十八年十一月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#邵宏淵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宣和三年"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#地理位置"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#高郵"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#兼"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#機關單位"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#四海"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#年號"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#事件動作"/>
+        <Class IRI="#政治活動"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#代稱"/>
+        <Class IRI="#政治結構"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#代稱_地理"/>
+        <Class IRI="#地理位置"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#代稱人物"/>
+        <Class IRI="#人物名稱"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#入仕_官職相關"/>
+        <Class IRI="#任官身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#前朝人物"/>
+        <Class IRI="#明確人物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#國家朝代"/>
+        <Class IRI="#政治結構"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#地名"/>
+        <Class IRI="#地理位置"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#地形"/>
+        <Class IRI="#地理位置"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#女性封贈"/>
+        <Class IRI="#任官身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#字號封號"/>
+        <Class IRI="#本朝人物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#宋以前"/>
+        <Class IRI="#年號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#宣和"/>
+        <Class IRI="#年號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#年號"/>
+        <Class IRI="#時間年號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#年齡"/>
+        <Class IRI="#計算時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#建炎"/>
+        <Class IRI="#年號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#明確人物"/>
+        <Class IRI="#人物名稱"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#未入仕"/>
+        <Class IRI="#任官身分"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#本朝人物"/>
+        <Class IRI="#明確人物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#機關單位"/>
+        <Class IRI="#政治結構"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#正面"/>
+        <Class IRI="#評價內容"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#歷時"/>
+        <Class IRI="#計算時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#泛指作品"/>
+        <Class IRI="#書籍作品"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#相關文書內容"/>
+        <Class IRI="#政治活動"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#紹興"/>
+        <Class IRI="#年號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#計算時間"/>
+        <Class IRI="#時間年號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#負面"/>
+        <Class IRI="#評價內容"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#隆興"/>
+        <Class IRI="#年號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#靖康"/>
+        <Class IRI="#年號"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#一般活動"/>
+        <NamedIndividual IRI="#丁父憂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#上奏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#狀態描述"/>
+        <NamedIndividual IRI="#不以死生介意"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正面"/>
+        <NamedIndividual IRI="#不群"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱"/>
+        <NamedIndividual IRI="#中國"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#狀態描述"/>
+        <NamedIndividual IRI="#中國之不可輕"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#九重"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#宋以前"/>
+        <NamedIndividual IRI="#五季"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱_地理"/>
+        <NamedIndividual IRI="#京師"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#狀態描述"/>
+        <NamedIndividual IRI="#仕進意"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#前朝人物"/>
+        <NamedIndividual IRI="#伯夷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#侍講"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#兩府"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#字號封號"/>
+        <NamedIndividual IRI="#六一先生"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#六曹長貳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#軍事單位"/>
+        <NamedIndividual IRI="#兵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#兵部尚書"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#負面"/>
+        <NamedIndividual IRI="#凶悖劫持"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#判官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#削籍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#劉氏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#劉豫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#勇者"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#勒停編管新州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱"/>
+        <NamedIndividual IRI="#北庭"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#即位_孝宗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#歷時"/>
+        <NamedIndividual IRI="#又六年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#吉陽軍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正面"/>
+        <NamedIndividual IRI="#名震天下"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#吏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#呂祉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#周官解"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#前朝人物"/>
+        <NamedIndividual IRI="#周宣王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#和議"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#和議1_紹興"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#前朝人物"/>
+        <NamedIndividual IRI="#唐德宗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱_地理"/>
+        <NamedIndividual IRI="#四海"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#國史編修官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#執政"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#夜郎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#大中大夫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#機關單位"/>
+        <NamedIndividual IRI="#大學"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#大臣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱_地理"/>
+        <NamedIndividual IRI="#天下"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#天子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#奏議"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#前朝人物"/>
+        <NamedIndividual IRI="#孔子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#前朝人物"/>
+        <NamedIndividual IRI="#孟子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#孫近"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#學禮編"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#女性封贈"/>
+        <NamedIndividual IRI="#孺人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#守令"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#國家朝代"/>
+        <NamedIndividual IRI="#宋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#宋孝宗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#宋徽宗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#宋欽宗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#宋高宗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#完顏亮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#宗正少卿"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#官軍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#宣和"/>
+        <NamedIndividual IRI="#宣和三年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#宰執"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#宿州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#富弼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#審查"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#將"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#小人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#尹穡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地形"/>
+        <NamedIndividual IRI="#嶠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#左文林郎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#左通直郎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#年齡"/>
+        <NamedIndividual IRI="#年二十"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#年齡"/>
+        <NamedIndividual IRI="#幼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#康氏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#廣州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#廬陵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#廷對_by胡銓"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#廷臣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#建炎"/>
+        <NamedIndividual IRI="#建炎二年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#張栻"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#張棣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#張氏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#張氏2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#張浚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#彈劾_by張棣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#彈劾_by羅汝楫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#待罪_by孫近"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#待罪_by秦檜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#歷時"/>
+        <NamedIndividual IRI="#後二年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#字號封號"/>
+        <NamedIndividual IRI="#忠獻"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正面"/>
+        <NamedIndividual IRI="#忠直"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#字號封號"/>
+        <NamedIndividual IRI="#忠簡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#情意感受"/>
+        <NamedIndividual IRI="#怡然"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#怯者"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#悍卒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正面"/>
+        <NamedIndividual IRI="#扶世垂教"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#承務郎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#承直郎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#撫州軍事判官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#新州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#易拾遺"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#春秋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#春秋集善"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#昭州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#晏敦復"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#泛指作品"/>
+        <NamedIndividual IRI="#書"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#書解"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#曾氏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#朝士"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#本州幕官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#李寶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#李顯忠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#情意感受"/>
+        <NamedIndividual IRI="#榮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#樞密院編修官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#樞屬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#權臣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#歐陽修"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#武夫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#前朝人物"/>
+        <NamedIndividual IRI="#武王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#相關文書內容"/>
+        <NamedIndividual IRI="#殺秦檜、王倫、孫近，拒絕和議"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#江陰"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#汪伯彥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#河南提點刑獄司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#活國本草"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#浙東"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#浙西"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地形"/>
+        <NamedIndividual IRI="#海"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#女性封贈"/>
+        <NamedIndividual IRI="#淑人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#湖北茶鹽司幹辦公事"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#字號封號"/>
+        <NamedIndividual IRI="#澹庵老人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱"/>
+        <NamedIndividual IRI="#狄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#王之望"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#王倫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#王廷珪"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#珠崖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#監司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#監廣州都鹽倉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#督府"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#國家朝代"/>
+        <NamedIndividual IRI="#石晉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#福州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#禮記解"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#秘書少監"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#秦檜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#移吉陽軍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#簽書威武軍節度判官廳公事"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#簽書威武軍節度判官廳公事_到官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興_無明確時間"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興七年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興七年四月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興三十二年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興三十二年十二月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興九年正月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興九年正月乙酉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興二十五年冬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興二十五年冬_未詳何時"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興二十六年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興五年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興八年十一月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興八年十一月辛亥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興八年十二月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興十一年六月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興十二年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興十二年七月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紹興"/>
+        <NamedIndividual IRI="#紹興十八年十一月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#給舍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#經筵二禮講義"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#維揚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#歷時"/>
+        <NamedIndividual IRI="#纔一年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#羅汝楫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#義士"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#考官"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#耿南仲"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#胡愷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#胡氏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#胡載"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#胡連"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#胡鑄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#臺諫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#蕭楚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#一般活動"/>
+        <NamedIndividual IRI="#薨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#機關單位"/>
+        <NamedIndividual IRI="#行在所"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#衡州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#裔士"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#記注"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#詩_姦諛膽落"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#書籍作品"/>
+        <NamedIndividual IRI="#詩話"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#諫議大夫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#軍事單位"/>
+        <NamedIndividual IRI="#諸路軍馬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#負面"/>
+        <NamedIndividual IRI="#貪殘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件動作"/>
+        <NamedIndividual IRI="#賜對1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#賢良方正科"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#贛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#起居郎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱_地理"/>
+        <NamedIndividual IRI="#遐方"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#字號封號"/>
+        <NamedIndividual IRI="#邦衡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#邵宏淵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#入仕_官職相關"/>
+        <NamedIndividual IRI="#郡守"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#機關單位"/>
+        <NamedIndividual IRI="#都堂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#鄉丁"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#未入仕"/>
+        <NamedIndividual IRI="#鄉人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#未入仕"/>
+        <NamedIndividual IRI="#鄉先生"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#國家朝代"/>
+        <NamedIndividual IRI="#金"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#代稱人物"/>
+        <NamedIndividual IRI="#金使"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#金陵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#相關文書內容"/>
+        <NamedIndividual IRI="#銓書專詆臣等，今和議已定，宜稍甄敘。"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#歷時"/>
+        <NamedIndividual IRI="#閱七年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#陳剛中"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#陳康伯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#陳敏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#陳氏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#隆祐太后"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#隆興"/>
+        <NamedIndividual IRI="#隆興元年七月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#隆興"/>
+        <NamedIndividual IRI="#隆興元年四月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#隆興"/>
+        <NamedIndividual IRI="#隆興元年正月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#韋太后"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#饒州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地名"/>
+        <NamedIndividual IRI="#高郵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#本朝人物"/>
+        <NamedIndividual IRI="#黃潛善"/>
+    </ClassAssertion>
+    <SameIndividual>
+        <NamedIndividual IRI="#中國"/>
+        <NamedIndividual IRI="#宋"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#六一先生"/>
+        <NamedIndividual IRI="#歐陽修"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#又六年"/>
+        <NamedIndividual IRI="#紹興十二年"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#宣和三年"/>
+        <NamedIndividual IRI="#年二十"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#張浚"/>
+        <NamedIndividual IRI="#忠獻"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#忠簡"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#澹庵老人"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#狄"/>
+        <NamedIndividual IRI="#金"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#紹興二十六年"/>
+        <NamedIndividual IRI="#閱七年"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#邦衡"/>
+    </SameIndividual>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#上奏"/>
+        <NamedIndividual IRI="#紹興九年正月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相關文書內容是"/>
+        <NamedIndividual IRI="#上奏"/>
+        <NamedIndividual IRI="#銓書專詆臣等，今和議已定，宜稍甄敘。"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+        <NamedIndividual IRI="#紹興八年十一月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#相關文書內容是"/>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+        <NamedIndividual IRI="#殺秦檜、王倫、孫近，拒絕和議"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被評價"/>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+        <NamedIndividual IRI="#凶悖劫持"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#不群"/>
+        <NamedIndividual IRI="#幼"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#侍講"/>
+        <NamedIndividual IRI="#隆興元年正月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#兵部尚書"/>
+        <NamedIndividual IRI="#紹興七年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#削籍"/>
+        <NamedIndividual IRI="#紹興八年十一月辛亥"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#劉氏"/>
+        <NamedIndividual IRI="#胡連"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#服"/>
+        <NamedIndividual IRI="#勇者"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#勒停編管新州"/>
+        <NamedIndividual IRI="#紹興十二年七月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#知"/>
+        <NamedIndividual IRI="#北庭"/>
+        <NamedIndividual IRI="#中國之不可輕"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#即位_孝宗"/>
+        <NamedIndividual IRI="#紹興三十二年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#任官"/>
+        <NamedIndividual IRI="#呂祉"/>
+        <NamedIndividual IRI="#兵部尚書"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#推薦"/>
+        <NamedIndividual IRI="#呂祉"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#和議1_紹興"/>
+        <NamedIndividual IRI="#紹興_無明確時間"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#國史編修官"/>
+        <NamedIndividual IRI="#隆興元年正月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#取"/>
+        <NamedIndividual IRI="#孔子"/>
+        <NamedIndividual IRI="#武王"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#取"/>
+        <NamedIndividual IRI="#孟子"/>
+        <NamedIndividual IRI="#武王"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#請罪"/>
+        <NamedIndividual IRI="#孫近"/>
+        <NamedIndividual IRI="#孫近"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#和議"/>
+        <NamedIndividual IRI="#宋"/>
+        <NamedIndividual IRI="#金"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#做"/>
+        <NamedIndividual IRI="#宋孝宗"/>
+        <NamedIndividual IRI="#即位_孝宗"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#興戰"/>
+        <NamedIndividual IRI="#完顏亮"/>
+        <NamedIndividual IRI="#宋"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#扞止"/>
+        <NamedIndividual IRI="#官軍"/>
+        <NamedIndividual IRI="#狄"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#宰執"/>
+        <NamedIndividual IRI="#紹興九年正月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生地點在"/>
+        <NamedIndividual IRI="#審查"/>
+        <NamedIndividual IRI="#都堂"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主張"/>
+        <NamedIndividual IRI="#尹穡"/>
+        <NamedIndividual IRI="#和議"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#嶠"/>
+        <NamedIndividual IRI="#纔一年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#左文林郎"/>
+        <NamedIndividual IRI="#年二十"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#左通直郎"/>
+        <NamedIndividual IRI="#紹興七年四月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#康氏"/>
+        <NamedIndividual IRI="#胡連"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#廷對_by胡銓"/>
+        <NamedIndividual IRI="#建炎二年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其父為"/>
+        <NamedIndividual IRI="#張栻"/>
+        <NamedIndividual IRI="#張浚"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#任官"/>
+        <NamedIndividual IRI="#張棣"/>
+        <NamedIndividual IRI="#郡守"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#驅迫"/>
+        <NamedIndividual IRI="#張棣"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#贈官"/>
+        <NamedIndividual IRI="#張氏"/>
+        <NamedIndividual IRI="#孺人"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#贈官"/>
+        <NamedIndividual IRI="#張氏2"/>
+        <NamedIndividual IRI="#淑人"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#都督"/>
+        <NamedIndividual IRI="#張浚"/>
+        <NamedIndividual IRI="#諸路軍馬"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#彈劾_by張棣"/>
+        <NamedIndividual IRI="#紹興十八年十一月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#彈劾_by羅汝楫"/>
+        <NamedIndividual IRI="#紹興十二年七月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#待罪_by孫近"/>
+        <NamedIndividual IRI="#紹興八年十一月辛亥"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#待罪_by秦檜"/>
+        <NamedIndividual IRI="#紹興八年十一月辛亥"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#奮"/>
+        <NamedIndividual IRI="#怯者"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傳誦"/>
+        <NamedIndividual IRI="#悍卒"/>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#撫州軍事判官"/>
+        <NamedIndividual IRI="#年二十"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#解救"/>
+        <NamedIndividual IRI="#晏敦復"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#贈官"/>
+        <NamedIndividual IRI="#曾氏"/>
+        <NamedIndividual IRI="#淑人"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#樞密院編修官"/>
+        <NamedIndividual IRI="#紹興八年十一月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#樞屬"/>
+        <NamedIndividual IRI="#紹興七年四月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傳誦"/>
+        <NamedIndividual IRI="#武夫"/>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#平定"/>
+        <NamedIndividual IRI="#武王"/>
+        <NamedIndividual IRI="#天下"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主張"/>
+        <NamedIndividual IRI="#汪伯彥"/>
+        <NamedIndividual IRI="#和議"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#河南提點刑獄司"/>
+        <NamedIndividual IRI="#紹興五年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#湖北茶鹽司幹辦公事"/>
+        <NamedIndividual IRI="#紹興五年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#彈劾"/>
+        <NamedIndividual IRI="#王倫"/>
+        <NamedIndividual IRI="#王倫"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#以為"/>
+        <NamedIndividual IRI="#王廷珪"/>
+        <NamedIndividual IRI="#榮"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#竄徙"/>
+        <NamedIndividual IRI="#王廷珪"/>
+        <NamedIndividual IRI="#夜郎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#賦"/>
+        <NamedIndividual IRI="#王廷珪"/>
+        <NamedIndividual IRI="#詩_姦諛膽落"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#身分是"/>
+        <NamedIndividual IRI="#王廷珪"/>
+        <NamedIndividual IRI="#鄉人"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#珠崖"/>
+        <NamedIndividual IRI="#又六年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#監廣州都鹽倉"/>
+        <NamedIndividual IRI="#紹興八年十二月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#克"/>
+        <NamedIndividual IRI="#督府"/>
+        <NamedIndividual IRI="#宿州"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#福州"/>
+        <NamedIndividual IRI="#又六年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#任官"/>
+        <NamedIndividual IRI="#秦檜"/>
+        <NamedIndividual IRI="#宰執"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#狀態發生"/>
+        <NamedIndividual IRI="#秦檜"/>
+        <NamedIndividual IRI="#薨"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#請罪"/>
+        <NamedIndividual IRI="#秦檜"/>
+        <NamedIndividual IRI="#秦檜"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#移吉陽軍"/>
+        <NamedIndividual IRI="#紹興十八年十一月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#簽書威武軍節度判官廳公事"/>
+        <NamedIndividual IRI="#紹興九年正月乙酉"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#簽書威武軍節度判官廳公事_到官"/>
+        <NamedIndividual IRI="#紹興十一年六月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#任官"/>
+        <NamedIndividual IRI="#羅汝楫"/>
+        <NamedIndividual IRI="#諫議大夫"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#彈劾"/>
+        <NamedIndividual IRI="#羅汝楫"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#非"/>
+        <NamedIndividual IRI="#義士"/>
+        <NamedIndividual IRI="#武王"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主張"/>
+        <NamedIndividual IRI="#耿南仲"/>
+        <NamedIndividual IRI="#和議"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡愷"/>
+        <NamedIndividual IRI="#劉氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡愷"/>
+        <NamedIndividual IRI="#康氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其父為"/>
+        <NamedIndividual IRI="#胡愷"/>
+        <NamedIndividual IRI="#胡連"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#贈官"/>
+        <NamedIndividual IRI="#胡愷"/>
+        <NamedIndividual IRI="#承務郎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#胡愷"/>
+        <NamedIndividual IRI="#張氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#包含"/>
+        <NamedIndividual IRI="#胡氏"/>
+        <NamedIndividual IRI="#胡愷"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#包含"/>
+        <NamedIndividual IRI="#胡氏"/>
+        <NamedIndividual IRI="#胡載"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#包含"/>
+        <NamedIndividual IRI="#胡氏"/>
+        <NamedIndividual IRI="#胡連"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#包含"/>
+        <NamedIndividual IRI="#胡氏"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#地籍是"/>
+        <NamedIndividual IRI="#胡氏"/>
+        <NamedIndividual IRI="#金陵"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#徙"/>
+        <NamedIndividual IRI="#胡氏"/>
+        <NamedIndividual IRI="#廬陵"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡載"/>
+        <NamedIndividual IRI="#張氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其父為"/>
+        <NamedIndividual IRI="#胡載"/>
+        <NamedIndividual IRI="#胡愷"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#贈官"/>
+        <NamedIndividual IRI="#胡載"/>
+        <NamedIndividual IRI="#大中大夫"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#胡載"/>
+        <NamedIndividual IRI="#張氏2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#胡載"/>
+        <NamedIndividual IRI="#曾氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#胡載"/>
+        <NamedIndividual IRI="#陳氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#胡連"/>
+        <NamedIndividual IRI="#劉氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#配偶"/>
+        <NamedIndividual IRI="#胡連"/>
+        <NamedIndividual IRI="#康氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#上書"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#宋高宗"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#任官"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#樞密院編修官"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#做"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#賜對1"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#張氏2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#陳氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其父為"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#胡載"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其生母為"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#曾氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#兼"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#侍講"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#兼"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#國史編修官"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#召赴"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#審查"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#廷對"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#宋高宗"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#從"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#蕭楚"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#情緒表達"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#怡然"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#扞止"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#狄"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#授官"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#左文林郎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#授官"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#撫州軍事判官"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#推薦"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#賢良方正科"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#擢"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#起居郎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#改"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#左通直郎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#改除"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#監廣州都鹽倉"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#改除"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#簽書威武軍節度判官廳公事"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#易"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#河南提點刑獄司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#權"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#判官"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#步往"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#珠崖"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#流放"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#昭州"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#無"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#仕進意"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#狀態發生"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#丁父憂"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#狀態發生"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#不以死生介意"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#率"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#官軍"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#率"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#鄉丁"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#留為"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#樞屬"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#移"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#吉陽軍"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#第賞"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#承直郎"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#編管"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#新州"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#周官解"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#奏議"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#學禮編"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#易拾遺"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#春秋集善"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#書"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#書解"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#活國本草"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#禮記解"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#經筵二禮講義"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#著"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#詩話"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被評價"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#不群"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被評價"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#名震天下"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被評價"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#扶世垂教"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#試"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#大學"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#赴"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#福州"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#踰"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#嶠"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#辟"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#湖北茶鹽司幹辦公事"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#過"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#海"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#量移"/>
+        <NamedIndividual IRI="#胡銓"/>
+        <NamedIndividual IRI="#衡州"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#兄弟"/>
+        <NamedIndividual IRI="#胡鑄"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡鑄"/>
+        <NamedIndividual IRI="#張氏2"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡鑄"/>
+        <NamedIndividual IRI="#曾氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其母為"/>
+        <NamedIndividual IRI="#胡鑄"/>
+        <NamedIndividual IRI="#陳氏"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#其父為"/>
+        <NamedIndividual IRI="#胡鑄"/>
+        <NamedIndividual IRI="#胡載"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#從"/>
+        <NamedIndividual IRI="#胡鑄"/>
+        <NamedIndividual IRI="#蕭楚"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#講學"/>
+        <NamedIndividual IRI="#蕭楚"/>
+        <NamedIndividual IRI="#春秋"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#身分是"/>
+        <NamedIndividual IRI="#蕭楚"/>
+        <NamedIndividual IRI="#鄉先生"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#薨"/>
+        <NamedIndividual IRI="#紹興二十五年冬"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#衡州"/>
+        <NamedIndividual IRI="#閱七年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#傳誦"/>
+        <NamedIndividual IRI="#裔士"/>
+        <NamedIndividual IRI="#上書1_by胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#諫議大夫"/>
+        <NamedIndividual IRI="#紹興十二年七月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#賜對1"/>
+        <NamedIndividual IRI="#紹興七年四月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#賢良方正科"/>
+        <NamedIndividual IRI="#紹興七年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#起居郎"/>
+        <NamedIndividual IRI="#隆興元年正月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#戰敗"/>
+        <NamedIndividual IRI="#邵宏淵"/>
+        <NamedIndividual IRI="#金"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生時間在"/>
+        <NamedIndividual IRI="#郡守"/>
+        <NamedIndividual IRI="#紹興十八年十一月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#扞止"/>
+        <NamedIndividual IRI="#鄉丁"/>
+        <NamedIndividual IRI="#狄"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#和議"/>
+        <NamedIndividual IRI="#金"/>
+        <NamedIndividual IRI="#宋"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#任官"/>
+        <NamedIndividual IRI="#陳剛中"/>
+        <NamedIndividual IRI="#朝士"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#餞行"/>
+        <NamedIndividual IRI="#陳剛中"/>
+        <NamedIndividual IRI="#胡銓"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#贈官"/>
+        <NamedIndividual IRI="#陳氏"/>
+        <NamedIndividual IRI="#淑人"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#上"/>
+        <NamedIndividual IRI="#隆祐太后"/>
+        <NamedIndividual IRI="#贛"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#避"/>
+        <NamedIndividual IRI="#隆祐太后"/>
+        <NamedIndividual IRI="#狄"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#主張"/>
+        <NamedIndividual IRI="#黃潛善"/>
+        <NamedIndividual IRI="#和議"/>
+    </ObjectPropertyAssertion>
+    <EquivalentObjectProperties>
+        <ObjectProperty IRI="#授官"/>
+        <ObjectProperty IRI="#辟"/>
+    </EquivalentObjectProperties>
+    <EquivalentObjectProperties>
+        <ObjectProperty IRI="#改"/>
+        <ObjectProperty IRI="#改除"/>
+    </EquivalentObjectProperties>
+    <EquivalentObjectProperties>
+        <ObjectProperty IRI="#改"/>
+        <ObjectProperty IRI="#易"/>
+    </EquivalentObjectProperties>
+    <EquivalentObjectProperties>
+        <ObjectProperty IRI="#改除"/>
+        <ObjectProperty IRI="#易"/>
+    </EquivalentObjectProperties>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#上"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#上書"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#下旨"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#主張"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#以為"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#任官"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#做"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#傳誦"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#兄弟"/>
+        <ObjectProperty IRI="#親屬關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#克"/>
+        <ObjectProperty IRI="#軍事動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#其母為"/>
+        <ObjectProperty IRI="#親屬關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#其父為"/>
+        <ObjectProperty IRI="#親屬關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#其生母為"/>
+        <ObjectProperty IRI="#其母為"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#兼"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#到官"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#削籍"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#包含"/>
+        <ObjectProperty IRI="#身分屬於"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#北伐"/>
+        <ObjectProperty IRI="#軍事動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#取"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#召赴"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#和議"/>
+        <ObjectProperty IRI="#外交動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#地籍是"/>
+        <ObjectProperty IRI="#身分屬於"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#奏請"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#奮"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#平定"/>
+        <ObjectProperty IRI="#軍事動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#廷對"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#彈劾"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#徙"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#從"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#戰敗"/>
+        <ObjectProperty IRI="#軍事動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#扞止"/>
+        <ObjectProperty IRI="#軍事動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#抵"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#授官"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#排"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#推薦"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#擢"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#攝官"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#改"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#改除"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#易"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#服"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#權"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#步往"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#求和"/>
+        <ObjectProperty IRI="#外交動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#流放"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#無"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#率"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#留為"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#知"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#知_地名"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#移"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#竄徙"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#第賞"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#編管"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#興戰"/>
+        <ObjectProperty IRI="#軍事動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#著"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#解救"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#試"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#請罪"/>
+        <ObjectProperty IRI="#朝內政治動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#講學"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#責"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#賦"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#贈官"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#赴"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#踰"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#身分是"/>
+        <ObjectProperty IRI="#身分屬於"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#辟"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#過"/>
+        <ObjectProperty IRI="#移動動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#避"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#都督"/>
+        <ObjectProperty IRI="#軍事動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#配偶"/>
+        <ObjectProperty IRI="#親屬關係"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#量移"/>
+        <ObjectProperty IRI="#除官動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#非"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#餞行"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#驅迫"/>
+        <ObjectProperty IRI="#一般動作"/>
+    </SubObjectPropertyOf>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#其父為"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#和議"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#兄弟"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#和議"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#配偶"/>
+    </InverseFunctionalObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#和議"/>
+    </SymmetricObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#其生母為"/>
+    </TransitiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#一般動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#一般動作"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#上"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#上"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#上書"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#上書"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#下旨"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#下旨"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#以為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#以為"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#任官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#任官"/>
+            <Class IRI="#明確人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#做"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#做"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#傳誦"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#傳誦"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#兄弟"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#親屬關係"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#其母為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#其母為"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#其父為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#其父為"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#其生母為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#其母為"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#到官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#到官"/>
+            <Class IRI="#明確人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#削籍"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#削籍"/>
+            <Class IRI="#明確人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#包含"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#包含"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#取"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#取"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#和議"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#和議"/>
+            <Class IRI="#政治結構"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#地籍是"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#地籍是"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#奏請"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#奏請"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#奮"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#奮"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#平定"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#平定"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#彈劾"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#彈劾"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#徙"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#踰"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#從"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#從"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#情緒表達"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#情緒表達"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#扞止"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#都督"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#抵"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#抵"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#授官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#授官"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#攝官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#攝官"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#改"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#改"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#改除"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#改除"/>
+            <Class IRI="#明確人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#易"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#易"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#服"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#服"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#權"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#權"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#步往"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#步往"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#流放"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#流放"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#無"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#無"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#率"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#率"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#留為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#留為"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#發生地點在"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#發生地點在"/>
+            <Class IRI="#事件動作"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#發生時間在"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#發生時間在"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#發生時間在"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#發生時間在"/>
+            <Class IRI="#政治活動"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#相關文書內容是"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#相關文書內容是"/>
+            <Class IRI="#事件動作"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#知"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#取"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#知"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#取"/>
+            <Class IRI="#國家朝代"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#移"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#移動動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#竄徙"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#竄徙"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#第賞"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#第賞"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#編管"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#編管"/>
+            <Class IRI="#明確人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#著"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#著"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#被評價"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#被評價"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#被評價"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#被評價"/>
+            <Class IRI="#政治活動"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#親屬關係"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#親屬關係"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#解救"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#解救"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#試"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#試"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#請罪"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#請罪"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#講學"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#講學"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#責"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#責"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#賦"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#賦"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#贈官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#贈官"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#赴"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#踰"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#踰"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#踰"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#身分是"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#身分是"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#軍事動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#軍事動作"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#軍事動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#軍事動作"/>
+            <Class IRI="#政治結構"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#辟"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#辟"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#過"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#避"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#避"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#都督"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#都督"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#配偶"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#配偶"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#量移"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#量移"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#除官動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#除官動作"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#非"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#非"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#餞行"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#餞行"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#驅迫"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#驅迫"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#上"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#上"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#上書"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#上書"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#下旨"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#下旨"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#任官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#任官"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#做"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#做"/>
+            <Class IRI="#政治活動"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#兄弟"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#親屬關係"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#其母為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#其母為"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#其父為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#其父為"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#其生母為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#其母為"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#到官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#到官"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#包含"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#包含"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#取"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#取"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#和議"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#和議"/>
+            <Class IRI="#政治結構"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#地籍是"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#地籍是"/>
+            <Class IRI="#地名"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#奏請"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#奏請"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#奮"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#奮"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#平定"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#平定"/>
+            <Class IRI="#國家朝代"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#平定"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#平定"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#彈劾"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#彈劾"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#徙"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#從"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#從"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#情緒表達"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#情緒表達"/>
+            <Class IRI="#情意感受"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#扞止"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#國家朝代"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#抵"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#授官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#授官"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#攝官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#攝官"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#改"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#改"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#改除"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#改除"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#易"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#易"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#服"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#服"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#權"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#權"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#步往"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#步往"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#流放"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#流放"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#無"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#無"/>
+            <Class IRI="#狀態描述"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#率"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#率"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#留為"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#留為"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#發生地點在"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#發生地點在"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#發生時間在"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#發生時間在"/>
+            <Class IRI="#時間年號"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#相關文書內容是"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#相關文書內容是"/>
+            <Class IRI="#相關文書內容"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#知"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#知"/>
+            <Class IRI="#狀態描述"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#移"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#移動動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#竄徙"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#竄徙"/>
+            <Class IRI="#地名"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#第賞"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#第賞"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#編管"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#編管"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#著"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#著"/>
+            <Class IRI="#書籍作品"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#被評價"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#被評價"/>
+            <Class IRI="#評價內容"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#親屬關係"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#親屬關係"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#解救"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#解救"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#試"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#試"/>
+            <Class IRI="#機關單位"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#請罪"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#請罪"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#講學"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#講學"/>
+            <Class IRI="#書籍作品"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#責"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#責"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#賦"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#賦"/>
+            <Class IRI="#書籍作品"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#贈官"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#第賞"/>
+            <Class IRI="#任官身分"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#赴"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#踰"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#身分是"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#身分是"/>
+            <Class IRI="#任官身分"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#軍事動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#軍事動作"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#軍事動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#軍事動作"/>
+            <Class IRI="#政治活動"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#軍事動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#軍事動作"/>
+            <Class IRI="#軍事單位"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#辟"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#辟"/>
+            <Class IRI="#入仕_官職相關"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#過"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#地理位置"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#避"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#避"/>
+            <Class IRI="#國家朝代"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#都督"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#移動動作"/>
+            <Class IRI="#軍事單位"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#配偶"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#配偶"/>
+            <Class IRI="#本朝人物"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#量移"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#辟"/>
+            <Class IRI="#地名"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#除官動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#除官動作"/>
+            <Class IRI="#任官身分"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#除官動作"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#除官動作"/>
+            <Class IRI="#地名"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#非"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#非"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#餞行"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#餞行"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#驅迫"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#驅迫"/>
+            <Class IRI="#人物名稱"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <DisjointObjectProperties>
+        <ObjectProperty IRI="#兄弟"/>
+        <ObjectProperty IRI="#其母為"/>
+        <ObjectProperty IRI="#其父為"/>
+        <ObjectProperty IRI="#配偶"/>
+    </DisjointObjectProperties>
+    <DisjointObjectProperties>
+        <ObjectProperty IRI="#兄弟"/>
+        <ObjectProperty IRI="#其父為"/>
+        <ObjectProperty IRI="#其生母為"/>
+        <ObjectProperty IRI="#配偶"/>
+    </DisjointObjectProperties>
+    <DisjointObjectProperties>
+        <ObjectProperty IRI="#其母為"/>
+        <ObjectProperty IRI="#其父為"/>
+        <ObjectProperty IRI="#配偶"/>
+    </DisjointObjectProperties>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

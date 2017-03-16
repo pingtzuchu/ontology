@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/anatta/ontologies/2017/3/BH0001"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/anatta/ontologies/2017/3/BH0001">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#身體部位"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#風"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#地"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#水"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#耳"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#09可避不避"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#力"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#眼"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#03為不習飯"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#秋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#病"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人命橫盡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#夏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冬"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isBecauseof"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#耳"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#氣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#身"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#04不出生"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isBelongedto"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#04疲極"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#氣"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#身"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#夏"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#地"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#四病"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#06瞋恚"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#水"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#力"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#眼"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#得病因緣[有十]"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#07近惡知識"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#病"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#09制上風"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#冬"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#01不應飯為飯"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#人"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isBornwith"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#熱"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#風"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#四季"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#寒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秋"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#08入里不時不如法行"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#02為不量飯"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#口"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#身體覺受"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#10制下風"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#熱"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#春"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#寒"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#07忍大便"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#05止熟"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#05婬泆"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#火"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#食無貸"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#03憂愁"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#春"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isRelatedto"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#口"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#06不持戒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#火"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#08忍小便"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#久坐不飯"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#久坐不飯"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#冬"/>
+        <Class IRI="#四季"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#力"/>
+        <Class IRI="#身體覺受"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#口"/>
+        <Class IRI="#身體部位"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#四病"/>
+        <Class IRI="#病"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#地"/>
+        <Class IRI="#四病"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#夏"/>
+        <Class IRI="#四季"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#寒"/>
+        <Class IRI="#身體覺受"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#春"/>
+        <Class IRI="#四季"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#氣"/>
+        <Class IRI="#身體覺受"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#水"/>
+        <Class IRI="#四病"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#火"/>
+        <Class IRI="#四病"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#熱"/>
+        <Class IRI="#身體覺受"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#眼"/>
+        <Class IRI="#身體部位"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#秋"/>
+        <Class IRI="#四季"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#耳"/>
+        <Class IRI="#身體部位"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#身"/>
+        <Class IRI="#身體部位"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#風"/>
+        <Class IRI="#四病"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#食無貸"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#01不應飯為飯"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#02為不量飯"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#03憂愁"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#03為不習飯"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#04不出生"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#04疲極"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#05婬泆"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#05止熟"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#06不持戒"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#06瞋恚"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#07忍大便"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#07近惡知識"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#08入里不時不如法行"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#08忍小便"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#09制上風"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#09可避不避"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#10制下風"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#人"/>
+        <NamedIndividual IRI="#人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四季"/>
+        <NamedIndividual IRI="#冬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體覺受"/>
+        <NamedIndividual IRI="#力"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體部位"/>
+        <NamedIndividual IRI="#口"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四病"/>
+        <NamedIndividual IRI="#地"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四季"/>
+        <NamedIndividual IRI="#夏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體覺受"/>
+        <NamedIndividual IRI="#寒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四季"/>
+        <NamedIndividual IRI="#春"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體覺受"/>
+        <NamedIndividual IRI="#氣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四病"/>
+        <NamedIndividual IRI="#水"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四病"/>
+        <NamedIndividual IRI="#火"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體覺受"/>
+        <NamedIndividual IRI="#熱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#病"/>
+        <NamedIndividual IRI="#病"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體部位"/>
+        <NamedIndividual IRI="#眼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四季"/>
+        <NamedIndividual IRI="#秋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體部位"/>
+        <NamedIndividual IRI="#耳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#身體部位"/>
+        <NamedIndividual IRI="#身"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#四病"/>
+        <NamedIndividual IRI="#風"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBornwith"/>
+        <NamedIndividual IRI="#人"/>
+        <NamedIndividual IRI="#病"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isRelatedto"/>
+        <NamedIndividual IRI="#冬"/>
+        <NamedIndividual IRI="#寒"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isRelatedto"/>
+        <NamedIndividual IRI="#冬"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBecauseof"/>
+        <NamedIndividual IRI="#力"/>
+        <NamedIndividual IRI="#地"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBelongedto"/>
+        <NamedIndividual IRI="#地"/>
+        <NamedIndividual IRI="#身"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isRelatedto"/>
+        <NamedIndividual IRI="#夏"/>
+        <NamedIndividual IRI="#氣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBecauseof"/>
+        <NamedIndividual IRI="#寒"/>
+        <NamedIndividual IRI="#水"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isRelatedto"/>
+        <NamedIndividual IRI="#春"/>
+        <NamedIndividual IRI="#寒"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBecauseof"/>
+        <NamedIndividual IRI="#氣"/>
+        <NamedIndividual IRI="#風"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBelongedto"/>
+        <NamedIndividual IRI="#水"/>
+        <NamedIndividual IRI="#口"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBelongedto"/>
+        <NamedIndividual IRI="#火"/>
+        <NamedIndividual IRI="#眼"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBecauseof"/>
+        <NamedIndividual IRI="#熱"/>
+        <NamedIndividual IRI="#火"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isRelatedto"/>
+        <NamedIndividual IRI="#秋"/>
+        <NamedIndividual IRI="#熱"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isBelongedto"/>
+        <NamedIndividual IRI="#風"/>
+        <NamedIndividual IRI="#耳"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isBecauseof"/>
+        <Class IRI="#人命橫盡"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isBelongedto"/>
+        <Class IRI="#四病"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isBecauseof"/>
+        <Class IRI="#人命橫盡因緣[有九]"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isBecauseof"/>
+        <Class IRI="#得病因緣[有十]"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isBelongedto"/>
+        <Class IRI="#身體覺受"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isBelongedto"/>
+        <Class IRI="#身體部位"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
