@@ -1,0 +1,573 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-9"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-9">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#虖勺之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青丘之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#灌湘之山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#北"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#丹穴之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#僕勾之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#祗山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陽夾之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#瞿父之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#䧿山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#柜山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#南山經"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#堂庭之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#杻陽之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#句餘之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#侖者之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#夷山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#西"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#區吳之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#旄山之尾"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#亶爰之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#猨翼之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#基山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#中"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#禱過之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#咸陰之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#箕尾之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#南次三經"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#長右之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#天虞之山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#海外"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#大荒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#令丘之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#南次二經"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#南"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#南禺之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#漆吳之山"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#屬於"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鷄山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#禺槀之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鹿吳之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#發爽之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#堯光之山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#山經"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#羽山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#成山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#招搖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#會稽之山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#海經"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#東"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#浮玉之山"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#洵山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#海內"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#中"/>
+        <Class IRI="#山經"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#北"/>
+        <Class IRI="#山經"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#南"/>
+        <Class IRI="#山經"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#大荒"/>
+        <Class IRI="#海經"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#東"/>
+        <Class IRI="#山經"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#海內"/>
+        <Class IRI="#海經"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#海外"/>
+        <Class IRI="#海經"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#西"/>
+        <Class IRI="#山經"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#䧿山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#丹穴之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#亶爰之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#令丘之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#侖者之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#僕勾之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#區吳之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#南禺之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#句餘之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#咸陰之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#基山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#堂庭之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#堯光之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#天虞之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#夷山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#成山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#招搖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#旄山之尾"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#會稽之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#杻陽之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#柜山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#洵山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#浮玉之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#漆吳之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#灌湘之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#猨翼之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#發爽之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#瞿父之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#祗山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#禱過之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#禺槀之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#箕尾之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#羽山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#虖勺之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#長右之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#陽夾之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#青丘之山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#鷄山"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#南"/>
+        <NamedIndividual IRI="#鹿吳之山"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#䧿山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#丹穴之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#亶爰之山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#令丘之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#侖者之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#僕勾之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#區吳之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#南禺之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#句餘之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#咸陰之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#基山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#堂庭之山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#堯光之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#天虞之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#夷山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#成山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#招搖"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#旄山之尾"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#會稽之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#杻陽之山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#柜山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#洵山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#浮玉之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#漆吳之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#灌湘之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#猨翼之山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#發爽之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#瞿父之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#祗山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#禱過之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#禺槀之山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#箕尾之山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#羽山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#虖勺之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#長右之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#陽夾之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#青丘之山"/>
+        <NamedIndividual IRI="#南山經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#鷄山"/>
+        <NamedIndividual IRI="#南次三經"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#屬於"/>
+        <NamedIndividual IRI="#鹿吳之山"/>
+        <NamedIndividual IRI="#南次二經"/>
+    </ObjectPropertyAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

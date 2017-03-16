@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/庭瑜/ontologies/2017/屈原"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/庭瑜/ontologies/2017/屈原">
+    <Prefix name="" IRI="http://www.semanticweb.org/庭瑜/ontologies/2017/屈原"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#筳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蘭"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#縣圃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#申椒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#菊"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#中性植物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胡繩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#洧盤"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#流沙"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#江離(川芎)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宓妃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#望舒"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#神靈"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蹇脩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鵜鴃"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#河川"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白水"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#虬"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#芳草"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#杜衡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#芙蓉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#艾"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#薜荔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#荃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#木蘭"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#菌桂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#崑崙"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#離騷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#西海"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#扶桑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#葹"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#芰荷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#騺鳥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#湘"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蕭"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#芷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鴆"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#藑茅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鳩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#揭車"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雷師"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#赤水"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#沅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#咸池"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蕙"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鸞皇"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#惡草"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#自然天象"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#九章"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#留夷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#窮石"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#菉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#榝"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蒼梧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#不周"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#傅巖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#羲和"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#春宮"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#地域"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#崦嵫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鷖"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#源頭"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#產地"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#動物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鳳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#飛龍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#皐"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#中性植物"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#動物"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#地域"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#惡草"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#河川"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#神靈"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#自然天象"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#芳草"/>
+        <Class IRI="#離騷"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#不周"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#傅巖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#咸池"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#神靈"/>
+        <NamedIndividual IRI="#宓妃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#崑崙"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#崦嵫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#扶桑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#揭車"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#春宮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#神靈"/>
+        <NamedIndividual IRI="#望舒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#木蘭"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#杜衡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#榝"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#河川"/>
+        <NamedIndividual IRI="#沅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#河川"/>
+        <NamedIndividual IRI="#洧盤"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#流沙"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#河川"/>
+        <NamedIndividual IRI="#湘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#申椒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#留夷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#河川"/>
+        <NamedIndividual IRI="#白水"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#河川"/>
+        <NamedIndividual IRI="#皐"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#窮石"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#筳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#縣圃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#神靈"/>
+        <NamedIndividual IRI="#羲和"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#胡繩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#艾"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#芙蓉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#芰荷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#芷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#荃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#菉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#菊"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#菌桂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#葹"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#地域"/>
+        <NamedIndividual IRI="#蒼梧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#蕙"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#蕭"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#薜荔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#藑茅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#蘭"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#虬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#河川"/>
+        <NamedIndividual IRI="#西海"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#河川"/>
+        <NamedIndividual IRI="#赤水"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#神靈"/>
+        <NamedIndividual IRI="#蹇脩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#神靈"/>
+        <NamedIndividual IRI="#雷師"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#飛龍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#騺鳥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#鳩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#鳳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#鴆"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#鵜鴃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#鷖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#動物"/>
+        <NamedIndividual IRI="#鸞皇"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#中性植物"/>
+        <NamedIndividual IRI="#江離(川芎)"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#源頭"/>
+        <NamedIndividual IRI="#洧盤"/>
+        <NamedIndividual IRI="#崦嵫"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#產地"/>
+        <NamedIndividual IRI="#芷"/>
+        <NamedIndividual IRI="#湘"/>
+    </ObjectPropertyAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

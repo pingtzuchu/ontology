@@ -1,0 +1,798 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:untitled-ontology-10="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#子女 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#子女">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#子女"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#子女"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#擁有 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#擁有">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#擁有"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#父母 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#父母">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#父母"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#父母"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#害怕"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#寂寞"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#配偶 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#配偶">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#配偶"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#物質"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人的奴性 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人的奴性">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#奴性"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心家"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#動物 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#動物">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#物質"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用途"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#奴性 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#奴性">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#物質"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#情感"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#害怕 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#害怕">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#情感"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#寂寞 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#寂寞">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#情感"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#山民家 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#山民家">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#情感 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#情感"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心家 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心家">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#無恥 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#無恥">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#情感"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#物的奴性 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#物的奴性">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#奴性"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#物質 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#物質"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用途 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用途">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#目的 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#目的">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心家"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#人物"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#克寧奶粉 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#克寧奶粉">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#刑具 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#刑具">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用竹"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#壁爐 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#壁爐">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#大媽 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#大媽">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#山民家"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+        <配偶 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#老伯"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#姑娘 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#姑娘">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#山民家"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#小弟"/>
+        <子女 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#大媽"/>
+        <子女 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#老伯"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#小弟 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#小弟">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#山民家"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+        <子女 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#大媽"/>
+        <子女 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#老伯"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#擔 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#擔">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用竹"/>
+        <屬於 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用竹"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#日記 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#日記">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀"/>
+        <屬於 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心家"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+        <子女 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心父"/>
+        <由於 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#療養"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心父 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心父">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心家"/>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#擁有"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+            </owl:Restriction>
+        </rdf:type>
+        <父母 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#楠木傢具 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#楠木傢具">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#炒青菜 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#炒青菜">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#無恥 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#無恥">
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#由於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#寂寞"/>
+            </owl:Restriction>
+        </rdf:type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#照片 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#照片">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#牛肉汁 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#牛肉汁">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#生活 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#生活">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#奴性"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用竹 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用竹">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用途"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#篙"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#鬥械"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#畫竹 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#畫竹">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用途"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#療養 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#療養">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用途"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#目的"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#白禮式礦燭 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#白禮式礦燭">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀">
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#屬於"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀"/>
+            </owl:Restriction>
+        </rdf:type>
+        <屬於 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#木心"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#篙 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#篙">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#粉蒸肉 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#粉蒸肉">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#紙煙 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#紙煙">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#羊 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#羊">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#動物"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#羊腿"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#羊腿 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#羊腿">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#翡翠蒜葉茉子 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#翡翠蒜葉茉子">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#老伯 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#老伯">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#山民家"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+        <配偶 rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#大媽"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#花生醬 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#花生醬">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#蔥花芋艿羹 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#蔥花芋艿羹">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#蘿蔔湯 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#蘿蔔湯">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#虎 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#虎">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#動物"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#詠竹 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#詠竹">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#用途"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#醇酒 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#醇酒">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#釀米酒 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#釀米酒">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#野豬 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#野豬">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#動物"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#錦盒 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#錦盒">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#不可食"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹秀"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#雪茄 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#雪茄">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#青椒炒毛豆 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#青椒炒毛豆">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#餅乾 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#餅乾">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#別墅"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#可食"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#鬥械 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#鬥械">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#商客"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#鳥 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#鳥">
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#動物"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#竹林"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2017/2/untitled-ontology-10#莫干山"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,891 @@
+Prefix(:=<http://www.semanticweb.org/samsung/ontologies/2017/2/untitled-ontology-5#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://www.semanticweb.org/samsung/ontologies/2017/2/untitled-ontology-5>
+
+Declaration(Class(:一般代稱))
+Declaration(Class(:一般動作))
+Declaration(Class(:不好))
+Declaration(Class(:人物))
+Declaration(Class(:入))
+Declaration(Class(:內部修身))
+Declaration(Class(:內部體會))
+Declaration(Class(:具體名稱))
+Declaration(Class(:出))
+Declaration(Class(:切))
+Declaration(Class(:功夫成果))
+Declaration(Class(:君子))
+Declaration(Class(:地名))
+Declaration(Class(:好))
+Declaration(Class(:學業))
+Declaration(Class(:完成價值))
+Declaration(Class(:客觀概念))
+Declaration(Class(:富))
+Declaration(Class(:對人))
+Declaration(Class(:對己))
+Declaration(Class(:弟子))
+Declaration(Class(:待人))
+Declaration(Class(:情感成果))
+Declaration(Class(:成果))
+Declaration(Class(:抽象概念))
+Declaration(Class(:書籍))
+Declaration(Class(:概念))
+Declaration(Class(:琢))
+Declaration(Class(:磋))
+Declaration(Class(:磨))
+Declaration(Class(:行為))
+Declaration(Class(:詩))
+Declaration(Class(:貧))
+Declaration(Class(:貴))
+Declaration(ObjectProperty(:主))
+Declaration(ObjectProperty(:事))
+Declaration(ObjectProperty(:交))
+Declaration(ObjectProperty(:交際方式))
+Declaration(ObjectProperty(:使))
+Declaration(ObjectProperty(:來))
+Declaration(ObjectProperty(:務))
+Declaration(ObjectProperty(:告))
+Declaration(ObjectProperty(:問))
+Declaration(ObjectProperty(:如))
+Declaration(ObjectProperty(:對待方式))
+Declaration(ObjectProperty(:對話語氣))
+Declaration(ObjectProperty(:態度動作))
+Declaration(ObjectProperty(:慎))
+Declaration(ObjectProperty(:敏))
+Declaration(ObjectProperty(:敬))
+Declaration(ObjectProperty(:易))
+Declaration(ObjectProperty(:時))
+Declaration(ObjectProperty(:曰))
+Declaration(ObjectProperty(:歸))
+Declaration(ObjectProperty(:求))
+Declaration(ObjectProperty(:為))
+Declaration(ObjectProperty(:犯))
+Declaration(ObjectProperty(:生))
+Declaration(ObjectProperty(:用))
+Declaration(ObjectProperty(:相近關係))
+Declaration(ObjectProperty(:省))
+Declaration(ObjectProperty(:立))
+Declaration(ObjectProperty(:節))
+Declaration(ObjectProperty(:聞))
+Declaration(ObjectProperty(:致))
+Declaration(ObjectProperty(:與))
+Declaration(ObjectProperty(:興))
+Declaration(ObjectProperty(:行為動作))
+Declaration(ObjectProperty(:親))
+Declaration(ObjectProperty(:觀))
+Declaration(ObjectProperty(:言))
+Declaration(ObjectProperty(:謀))
+Declaration(ObjectProperty(:謂))
+Declaration(ObjectProperty(:謹))
+Declaration(ObjectProperty(:追))
+Declaration(NamedIndividual(:事))
+Declaration(NamedIndividual(:人))
+Declaration(NamedIndividual(:仁))
+Declaration(NamedIndividual(:信))
+Declaration(NamedIndividual(:儉))
+Declaration(NamedIndividual(:先王))
+Declaration(NamedIndividual(:千乘之國))
+Declaration(NamedIndividual(:厚))
+Declaration(NamedIndividual(:友))
+Declaration(NamedIndividual(:君))
+Declaration(NamedIndividual(:君子))
+Declaration(NamedIndividual(:吾))
+Declaration(NamedIndividual(:和))
+Declaration(NamedIndividual(:大))
+Declaration(NamedIndividual(:夫子))
+Declaration(NamedIndividual(:威))
+Declaration(NamedIndividual(:子))
+Declaration(NamedIndividual(:子夏))
+Declaration(NamedIndividual(:子禽))
+Declaration(NamedIndividual(:子貢))
+Declaration(NamedIndividual(:孝))
+Declaration(NamedIndividual(:孝悌))
+Declaration(NamedIndividual(:學))
+Declaration(NamedIndividual(:安))
+Declaration(NamedIndividual(:宗))
+Declaration(NamedIndividual(:小))
+Declaration(NamedIndividual(:居))
+Declaration(NamedIndividual(:巧言令色))
+Declaration(NamedIndividual(:己))
+Declaration(NamedIndividual(:德))
+Declaration(NamedIndividual(:志))
+Declaration(NamedIndividual(:忠))
+Declaration(NamedIndividual(:恥辱))
+Declaration(NamedIndividual(:恭))
+Declaration(NamedIndividual(:患))
+Declaration(NamedIndividual(:愛))
+Declaration(NamedIndividual(:慍))
+Declaration(NamedIndividual(:慎))
+Declaration(NamedIndividual(:改))
+Declaration(NamedIndividual(:政))
+Declaration(NamedIndividual(:敏))
+Declaration(NamedIndividual(:敬))
+Declaration(NamedIndividual(:文))
+Declaration(NamedIndividual(:時))
+Declaration(NamedIndividual(:曾子))
+Declaration(NamedIndividual(:有子))
+Declaration(NamedIndividual(:朋友))
+Declaration(NamedIndividual(:未學))
+Declaration(NamedIndividual(:本))
+Declaration(NamedIndividual(:樂))
+Declaration(NamedIndividual(:民))
+Declaration(NamedIndividual(:民德))
+Declaration(NamedIndividual(:溫))
+Declaration(NamedIndividual(:父))
+Declaration(NamedIndividual(:父母))
+Declaration(NamedIndividual(:犯上))
+Declaration(NamedIndividual(:省))
+Declaration(NamedIndividual(:眾))
+Declaration(NamedIndividual(:知))
+Declaration(NamedIndividual(:禮))
+Declaration(NamedIndividual(:立))
+Declaration(NamedIndividual(:竭力))
+Declaration(NamedIndividual(:節))
+Declaration(NamedIndividual(:美))
+Declaration(NamedIndividual(:義))
+Declaration(NamedIndividual(:習))
+Declaration(NamedIndividual(:聞))
+Declaration(NamedIndividual(:致))
+Declaration(NamedIndividual(:良))
+Declaration(NamedIndividual(:色))
+Declaration(NamedIndividual(:行))
+Declaration(NamedIndividual(:親))
+Declaration(NamedIndividual(:言))
+Declaration(NamedIndividual(:詩))
+Declaration(NamedIndividual(:說))
+Declaration(NamedIndividual(:讓))
+Declaration(NamedIndividual(:賜))
+Declaration(NamedIndividual(:賢))
+Declaration(NamedIndividual(:過))
+Declaration(NamedIndividual(:道))
+Declaration(NamedIndividual(:邦))
+Declaration(NamedIndividual(:重))
+Declaration(NamedIndividual(:食))
+Declaration(NamedIndividual(:飽))
+Declaration(NamedIndividual(:鮮))
+############################
+#   Object Properties
+############################
+
+# Object Property: :主 (:主)
+
+SubObjectPropertyOf(:主 :對待方式)
+
+# Object Property: :事 (:事)
+
+SubObjectPropertyOf(:事 :對待方式)
+
+# Object Property: :交 (:交)
+
+SubObjectPropertyOf(:交 :行為動作)
+
+# Object Property: :使 (:使)
+
+SubObjectPropertyOf(:使 :行為動作)
+
+# Object Property: :來 (:來)
+
+SubObjectPropertyOf(:來 :行為動作)
+
+# Object Property: :務 (:務)
+
+SubObjectPropertyOf(:務 :對待方式)
+
+# Object Property: :告 (:告)
+
+SubObjectPropertyOf(:告 :對話語氣)
+
+# Object Property: :問 (:問)
+
+SubObjectPropertyOf(:問 :對話語氣)
+
+# Object Property: :如 (:如)
+
+SubObjectPropertyOf(:如 :對待方式)
+
+# Object Property: :對待方式 (:對待方式)
+
+SubObjectPropertyOf(:對待方式 :交際方式)
+
+# Object Property: :對話語氣 (:對話語氣)
+
+SubObjectPropertyOf(:對話語氣 :交際方式)
+
+# Object Property: :態度動作 (:態度動作)
+
+SubObjectPropertyOf(:態度動作 :交際方式)
+
+# Object Property: :慎 (:慎)
+
+SubObjectPropertyOf(:慎 :態度動作)
+
+# Object Property: :敏 (:敏)
+
+SubObjectPropertyOf(:敏 :態度動作)
+
+# Object Property: :敬 (:敬)
+
+SubObjectPropertyOf(:敬 :態度動作)
+
+# Object Property: :易 (:易)
+
+SubObjectPropertyOf(:易 :對待方式)
+
+# Object Property: :時 (:時)
+
+SubObjectPropertyOf(:時 :行為動作)
+
+# Object Property: :曰 (:曰)
+
+SubObjectPropertyOf(:曰 :對話語氣)
+
+# Object Property: :歸 (:歸)
+
+SubObjectPropertyOf(:歸 :行為動作)
+
+# Object Property: :求 (:求)
+
+SubObjectPropertyOf(:求 :行為動作)
+ObjectPropertyDomain(:求 :君子)
+DisjointObjectProperties(:求 :與)
+
+# Object Property: :為 (:為)
+
+SubObjectPropertyOf(:為 :對待方式)
+
+# Object Property: :犯 (:犯)
+
+SubObjectPropertyOf(:犯 :行為動作)
+
+# Object Property: :生 (:生)
+
+SubObjectPropertyOf(:生 :行為動作)
+
+# Object Property: :用 (:用)
+
+SubObjectPropertyOf(:用 :行為動作)
+
+# Object Property: :相近關係 (:相近關係)
+
+SubObjectPropertyOf(:相近關係 owl:topObjectProperty)
+
+# Object Property: :省 (:省)
+
+SubObjectPropertyOf(:省 :態度動作)
+
+# Object Property: :立 (:立)
+
+SubObjectPropertyOf(:立 :對待方式)
+
+# Object Property: :節 (:節)
+
+SubObjectPropertyOf(:節 :態度動作)
+
+# Object Property: :聞 (:聞)
+
+SubObjectPropertyOf(:聞 :行為動作)
+
+# Object Property: :致 (:致)
+
+SubObjectPropertyOf(:致 :行為動作)
+
+# Object Property: :與 (:與)
+
+SubObjectPropertyOf(:與 :行為動作)
+
+# Object Property: :興 (:興)
+
+SubObjectPropertyOf(:興 :對待方式)
+
+# Object Property: :行為動作 (:行為動作)
+
+SubObjectPropertyOf(:行為動作 :交際方式)
+
+# Object Property: :親 (:親)
+
+SubObjectPropertyOf(:親 :態度動作)
+
+# Object Property: :觀 (:觀)
+
+SubObjectPropertyOf(:觀 :行為動作)
+
+# Object Property: :言 (:言)
+
+SubObjectPropertyOf(:言 :對話語氣)
+ObjectPropertyDomain(:言 :待人)
+
+# Object Property: :謀 (:謀)
+
+SubObjectPropertyOf(:謀 :行為動作)
+
+# Object Property: :謂 (:謂)
+
+SubObjectPropertyOf(:謂 :對話語氣)
+
+# Object Property: :謹 (:謹)
+
+SubObjectPropertyOf(:謹 :態度動作)
+
+# Object Property: :追 (:追)
+
+SubObjectPropertyOf(:追 :行為動作)
+
+
+############################
+#   Classes
+############################
+
+# Class: :一般代稱 (:一般代稱)
+
+SubClassOf(:一般代稱 :人物)
+
+# Class: :一般動作 (:一般動作)
+
+SubClassOf(:一般動作 :行為)
+
+# Class: :不好 (:不好)
+
+SubClassOf(:不好 :待人)
+
+# Class: :入 (:入)
+
+SubClassOf(:入 :客觀概念)
+
+# Class: :內部修身 (:內部修身)
+
+SubClassOf(:內部修身 :行為)
+
+# Class: :內部體會 (:內部體會)
+
+SubClassOf(:內部體會 :行為)
+
+# Class: :具體名稱 (:具體名稱)
+
+SubClassOf(:具體名稱 :人物)
+
+# Class: :出 (:出)
+
+SubClassOf(:出 :客觀概念)
+
+# Class: :切 (:切)
+
+EquivalentClasses(:切 :磋)
+SubClassOf(:切 :客觀概念)
+
+# Class: :功夫成果 (:功夫成果)
+
+SubClassOf(:功夫成果 :成果)
+
+# Class: :君子 (:君子)
+
+SubClassOf(:君子 :一般代稱)
+
+# Class: :好 (:好)
+
+SubClassOf(:好 :待人)
+
+# Class: :學業 (:學業)
+
+SubClassOf(:學業 :書籍)
+
+# Class: :客觀概念 (:客觀概念)
+
+SubClassOf(:客觀概念 :概念)
+
+# Class: :富 (:富)
+
+SubClassOf(:富 :客觀概念)
+DisjointClasses(:富 :貧)
+
+# Class: :對人 (:對人)
+
+SubClassOf(:對人 :完成價值)
+
+# Class: :對己 (:對己)
+
+SubClassOf(:對己 :完成價值)
+
+# Class: :弟子 (:弟子)
+
+SubClassOf(:弟子 :一般代稱)
+
+# Class: :待人 (:待人)
+
+SubClassOf(:待人 :行為)
+
+# Class: :情感成果 (:情感成果)
+
+SubClassOf(:情感成果 :成果)
+
+# Class: :抽象概念 (:抽象概念)
+
+SubClassOf(:抽象概念 :概念)
+
+# Class: :琢 (:琢)
+
+EquivalentClasses(:琢 :磨)
+SubClassOf(:琢 :客觀概念)
+
+# Class: :磋 (:磋)
+
+SubClassOf(:磋 :客觀概念)
+
+# Class: :磨 (:磨)
+
+SubClassOf(:磨 :客觀概念)
+
+# Class: :詩 (:詩)
+
+SubClassOf(:詩 :書籍)
+
+# Class: :貧 (:貧)
+
+SubClassOf(:貧 :客觀概念)
+
+# Class: :貴 (:貴)
+
+SubClassOf(:貴 :客觀概念)
+
+
+############################
+#   Named Individuals
+############################
+
+# Individual: :事 (:事)
+
+ClassAssertion(:好 :事)
+
+# Individual: :人 (:人)
+
+ClassAssertion(:一般代稱 :人)
+ObjectPropertyAssertion(:對待方式 :人 :患)
+ObjectPropertyAssertion(:對待方式 :人 :愛)
+ObjectPropertyAssertion(:謀 :人 :忠)
+
+# Individual: :仁 (:仁)
+
+ClassAssertion(:對己 :仁)
+ObjectPropertyAssertion(:對待方式 :仁 :孝悌)
+ObjectPropertyAssertion(:親 :仁 :仁)
+
+# Individual: :信 (:信)
+
+ClassAssertion(:對人 :信)
+SameIndividual(:信 :義)
+ObjectPropertyAssertion(:主 :信 :朋友)
+ObjectPropertyAssertion(:交 :信 :朋友)
+
+# Individual: :儉 (:儉)
+
+ClassAssertion(:對人 :儉)
+
+# Individual: :先王 (:先王)
+
+ClassAssertion(:一般代稱 :先王)
+
+# Individual: :千乘之國 (:千乘之國)
+
+ClassAssertion(:地名 :千乘之國)
+ObjectPropertyAssertion(:態度動作 :千乘之國 :愛)
+ObjectPropertyAssertion(:態度動作 :千乘之國 :節)
+ObjectPropertyAssertion(:敬 :千乘之國 :信)
+
+# Individual: :厚 (:厚)
+
+ClassAssertion(:客觀概念 :厚)
+ObjectPropertyAssertion(:歸 :厚 :民德)
+
+# Individual: :友 (:友)
+
+ClassAssertion(:一般代稱 :友)
+SameIndividual(:友 :朋友)
+ObjectPropertyAssertion(:對待方式 :友 :信)
+ObjectPropertyAssertion(:對待方式 :友 :忠)
+
+# Individual: :君 (:君)
+
+ClassAssertion(:一般代稱 :君)
+ObjectPropertyAssertion(:態度動作 :君 :致)
+
+# Individual: :君子 (:君子)
+
+ClassAssertion(:君子 :君子)
+ObjectPropertyAssertion(:務 :君子 :本)
+ObjectPropertyAssertion(:慎 :君子 :言)
+ObjectPropertyAssertion(:敏 :君子 :事)
+ObjectPropertyAssertion(:求 :君子 :安)
+ObjectPropertyAssertion(:求 :君子 :飽)
+ObjectPropertyAssertion(:相近關係 :君子 :學)
+ObjectPropertyAssertion(:相近關係 :君子 :道)
+
+# Individual: :吾 (:吾)
+
+ClassAssertion(:一般代稱 :吾)
+
+# Individual: :和 (:和)
+
+ClassAssertion(:對己 :和)
+ClassAssertion(:貴 :和)
+ObjectPropertyAssertion(:用 :和 :禮)
+
+# Individual: :大 (:大)
+
+ClassAssertion(:抽象概念 :大)
+
+# Individual: :夫子 (:夫子)
+
+ClassAssertion(:具體名稱 :夫子)
+ClassAssertion(:君子 :夫子)
+SameIndividual(:夫子 :子)
+ObjectPropertyAssertion(:聞 :夫子 :政)
+
+# Individual: :威 (:威)
+
+ClassAssertion(:對己 :威)
+
+# Individual: :子 (:子)
+
+ClassAssertion(:具體名稱 :子)
+ClassAssertion(:君子 :子)
+ClassAssertion(:富 :子)
+ClassAssertion(:貧 :子)
+ObjectPropertyAssertion(:曰 :子 :學)
+ObjectPropertyAssertion(:曰 :子 :賜)
+ObjectPropertyAssertion(:言 :子 :詩)
+
+# Individual: :子夏 (:子夏)
+
+ClassAssertion(:具體名稱 :子夏)
+ClassAssertion(:弟子 :子夏)
+
+# Individual: :子禽 (:子禽)
+
+ClassAssertion(:具體名稱 :子禽)
+ClassAssertion(:弟子 :子禽)
+ObjectPropertyAssertion(:問 :子禽 :子貢)
+
+# Individual: :子貢 (:子貢)
+
+ClassAssertion(:具體名稱 :子貢)
+ClassAssertion(:切 :子貢)
+ClassAssertion(:富 :子貢)
+ClassAssertion(:弟子 :子貢)
+ClassAssertion(:琢 :子貢)
+ClassAssertion(:磋 :子貢)
+ClassAssertion(:磨 :子貢)
+ClassAssertion(:貧 :子貢)
+SameIndividual(:子貢 :賜)
+
+# Individual: :孝 (:孝)
+
+ClassAssertion(:對人 :孝)
+ObjectPropertyAssertion(:觀 :孝 :志)
+ObjectPropertyAssertion(:觀 :孝 :行)
+
+# Individual: :孝悌 (:孝悌)
+
+ClassAssertion(:對人 :孝悌)
+ObjectPropertyAssertion(:興 :孝悌 :仁)
+
+# Individual: :學 (:學)
+
+ClassAssertion(:內部修身 :學)
+ObjectPropertyAssertion(:時 :學 :習)
+ObjectPropertyAssertion(:行為動作 :學 :文)
+ObjectPropertyAssertion(:行為動作 :學 :說)
+
+# Individual: :安 (:安)
+
+ClassAssertion(:抽象概念 :安)
+
+# Individual: :宗 (:宗)
+
+ClassAssertion(:客觀概念 :宗)
+
+# Individual: :小 (:小)
+
+ClassAssertion(:抽象概念 :小)
+
+# Individual: :居 (:居)
+
+ClassAssertion(:一般動作 :居)
+
+# Individual: :巧言令色 (:巧言令色)
+
+ClassAssertion(:不好 :巧言令色)
+ObjectPropertyAssertion(:對待方式 :巧言令色 :鮮)
+
+# Individual: :己 (:己)
+
+ClassAssertion(:一般代稱 :己)
+ObjectPropertyAssertion(:如 :己 :友)
+
+# Individual: :德 (:德)
+
+ClassAssertion(:對己 :德)
+
+# Individual: :志 (:志)
+
+ClassAssertion(:內部體會 :志)
+
+# Individual: :忠 (:忠)
+
+ClassAssertion(:對人 :忠)
+ObjectPropertyAssertion(:對待方式 :忠 :友)
+
+# Individual: :恥辱 (:恥辱)
+
+ClassAssertion(:不好 :恥辱)
+
+# Individual: :恭 (:恭)
+
+ClassAssertion(:對人 :恭)
+SameIndividual(:恭 :禮)
+ObjectPropertyAssertion(:求 :恭 :安)
+ObjectPropertyAssertion(:求 :恭 :飽)
+
+# Individual: :患 (:患)
+
+ClassAssertion(:內部體會 :患)
+ObjectPropertyAssertion(:態度動作 :患 :人)
+
+# Individual: :愛 (:愛)
+
+ClassAssertion(:好 :愛)
+ClassAssertion(:對人 :愛)
+ObjectPropertyAssertion(:對待方式 :愛 :人)
+ObjectPropertyAssertion(:行為動作 :愛 :眾)
+
+# Individual: :慍 (:慍)
+
+ClassAssertion(:內部體會 :慍)
+
+# Individual: :慎 (:慎)
+
+ClassAssertion(:內部體會 :慎)
+
+# Individual: :改 (:改)
+
+ClassAssertion(:內部修身 :改)
+
+# Individual: :政 (:政)
+
+ClassAssertion(:客觀概念 :政)
+ObjectPropertyAssertion(:觀 :政 :志)
+
+# Individual: :敏 (:敏)
+
+ClassAssertion(:內部體會 :敏)
+
+# Individual: :敬 (:敬)
+
+ClassAssertion(:好 :敬)
+
+# Individual: :文 (:文)
+
+ClassAssertion(:學業 :文)
+ObjectPropertyAssertion(:行為動作 :文 :學)
+
+# Individual: :時 (:時)
+
+ClassAssertion(:內部體會 :時)
+ClassAssertion(:客觀概念 :時)
+
+# Individual: :曾子 (:曾子)
+
+ClassAssertion(:具體名稱 :曾子)
+ClassAssertion(:弟子 :曾子)
+ObjectPropertyAssertion(:曰 :曾子 :民德)
+
+# Individual: :有子 (:有子)
+
+ClassAssertion(:具體名稱 :有子)
+ClassAssertion(:弟子 :有子)
+ObjectPropertyAssertion(:曰 :有子 :信)
+ObjectPropertyAssertion(:曰 :有子 :恭)
+ObjectPropertyAssertion(:曰 :有子 :禮)
+ObjectPropertyAssertion(:曰 :有子 :義)
+
+# Individual: :朋友 (:朋友)
+
+ClassAssertion(:一般代稱 :朋友)
+ObjectPropertyAssertion(:交 :朋友 :信)
+
+# Individual: :未學 (:未學)
+
+ClassAssertion(:內部修身 :未學)
+
+# Individual: :本 (:本)
+
+ClassAssertion(:客觀概念 :本)
+ObjectPropertyAssertion(:務 :本 :君子)
+ObjectPropertyAssertion(:生 :本 :道)
+
+# Individual: :樂 (:樂)
+
+ClassAssertion(:情感成果 :樂)
+ObjectPropertyAssertion(:態度動作 :樂 :子)
+
+# Individual: :民 (:民)
+
+ClassAssertion(:一般代稱 :民)
+ObjectPropertyAssertion(:使 :民 :時)
+
+# Individual: :民德 (:民德)
+
+ClassAssertion(:客觀概念 :民德)
+ObjectPropertyAssertion(:歸 :民德 :厚)
+ObjectPropertyAssertion(:行為動作 :民德 :民)
+
+# Individual: :溫 (:溫)
+
+ClassAssertion(:對人 :溫)
+
+# Individual: :父 (:父)
+
+ClassAssertion(:一般代稱 :父)
+
+# Individual: :父母 (:父母)
+
+ClassAssertion(:一般代稱 :父母)
+ObjectPropertyAssertion(:事 :父母 :竭力)
+
+# Individual: :犯上 (:犯上)
+
+ClassAssertion(:不好 :犯上)
+
+# Individual: :省 (:省)
+
+ClassAssertion(:內部修身 :省)
+
+# Individual: :眾 (:眾)
+
+ClassAssertion(:一般代稱 :眾)
+ObjectPropertyAssertion(:對待方式 :眾 :愛)
+
+# Individual: :知 (:知)
+
+ClassAssertion(:內部體會 :知)
+ObjectPropertyAssertion(:態度動作 :知 :人)
+
+# Individual: :禮 (:禮)
+
+ClassAssertion(:對人 :禮)
+ClassAssertion(:貴 :禮)
+ObjectPropertyAssertion(:用 :禮 :和)
+
+# Individual: :立 (:立)
+
+ClassAssertion(:內部修身 :立)
+
+# Individual: :竭力 (:竭力)
+
+ClassAssertion(:好 :竭力)
+ObjectPropertyAssertion(:態度動作 :竭力 :父母)
+
+# Individual: :節 (:節)
+
+ClassAssertion(:內部修身 :節)
+
+# Individual: :美 (:美)
+
+ClassAssertion(:抽象概念 :美)
+
+# Individual: :義 (:義)
+
+ClassAssertion(:對人 :義)
+
+# Individual: :習 (:習)
+
+ClassAssertion(:內部修身 :習)
+ClassAssertion(:學業 :習)
+ObjectPropertyAssertion(:時 :習 :學)
+
+# Individual: :聞 (:聞)
+
+ClassAssertion(:內部體會 :聞)
+
+# Individual: :致 (:致)
+
+ClassAssertion(:好 :致)
+ObjectPropertyAssertion(:事 :致 :君)
+
+# Individual: :良 (:良)
+
+ClassAssertion(:對人 :良)
+
+# Individual: :色 (:色)
+
+ClassAssertion(:一般代稱 :色)
+
+# Individual: :行 (:行)
+
+ClassAssertion(:內部修身 :行)
+
+# Individual: :親 (:親)
+
+ClassAssertion(:好 :親)
+ObjectPropertyAssertion(:態度動作 :親 :人)
+
+# Individual: :言 (:言)
+
+ClassAssertion(:一般動作 :言)
+
+# Individual: :詩 (:詩)
+
+ClassAssertion(:詩 :詩)
+
+# Individual: :說 (:說)
+
+ClassAssertion(:情感成果 :說)
+ObjectPropertyAssertion(:行為動作 :說 :學)
+
+# Individual: :讓 (:讓)
+
+ClassAssertion(:對人 :讓)
+
+# Individual: :賜 (:賜)
+
+ClassAssertion(:具體名稱 :賜)
+
+# Individual: :賢 (:賢)
+
+ClassAssertion(:一般代稱 :賢)
+
+# Individual: :過 (:過)
+
+ClassAssertion(:抽象概念 :過)
+
+# Individual: :道 (:道)
+
+ClassAssertion(:對己 :道)
+ObjectPropertyAssertion(:立 :道 :本)
+
+# Individual: :邦 (:邦)
+
+ClassAssertion(:地名 :邦)
+
+# Individual: :重 (:重)
+
+ClassAssertion(:對己 :重)
+
+# Individual: :食 (:食)
+
+ClassAssertion(:一般動作 :食)
+
+# Individual: :飽 (:飽)
+
+ClassAssertion(:抽象概念 :飽)
+
+# Individual: :鮮 (:鮮)
+
+ClassAssertion(:抽象概念 :鮮)
+
+
+DisjointClasses(:入 :出 :富 :貧)
+)

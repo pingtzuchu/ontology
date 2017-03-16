@@ -1,0 +1,2265 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/尚叡/ontologies/2017/1/untitled-ontology-5"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/尚叡/ontologies/2017/1/untitled-ontology-5">
+    <Prefix name="" IRI="http://www.semanticweb.org/尚叡/ontologies/2017/1/untitled-ontology-5"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual IRI="#紅潮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#麗"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#淡"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#綠色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蒼(白)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#光艷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#粗黑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蔥綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈代善"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#碧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑魆魆"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#尤三姐"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#荔色"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#五彩繽紛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#嬌黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#慘淡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#玫瑰紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秦可卿"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李紈"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈探春"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#微紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#素淨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金釧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#烟青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#素(淡)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#嫣紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#佛青"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#黃色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#素白"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#男"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈瑞"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#尤二姐"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李貴"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#深"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#體色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#醬色"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#穿戴"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#素淡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#絳紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鮮豔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鳳姐"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#晶瑩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈環"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黃澄澄"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#茜雪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#燦爛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈元春"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#沉黑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#碧青"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#場景"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#白色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#素爛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#斑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紙灰"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#杏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#淺碧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#錦重重"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#小紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#銀紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鮮妍"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#茜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#來旺"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#霜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#櫻"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#淺淡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蓮青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#墨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#碧瑩瑩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五彩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#燒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#艷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#血"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈雨村"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#彩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#漆"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#皂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鐵青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#藍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青埂峰"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑鬒鬒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鴛鴦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#茄色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#妙玉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#淡素"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#嬌豔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#寶蟾"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#翡翠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#縞"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#楊妃色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#玉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#寶色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#史湘雲"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑油油"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#錦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈寶玉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#醉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冷子興"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#寶藍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#玫瑰"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#月白"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#來旺婦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鮮明"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#絳珠仙草"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李紋"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#佈景顏色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五采"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#皎皎"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鮮紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#猩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#薛寶釵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鮮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#玉釧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#林如海"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#粉紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雅淡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金紙"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#丹霞"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#各色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#粉(白)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白花花"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白淨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紅暈"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#朱紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蒼翠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#血色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陸離"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鵝黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#花簇簇"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紅紫"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#副冊"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#金色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#翠翠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#奼紫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蔥花綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金晃晃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈惜春"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#皤"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#紅色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雜色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#飛紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#松綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑亮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#石青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#趣青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#嬌杏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#櫻桃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#寶珠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#晴雯"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈巧姐"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#灰色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鬼臉青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#平兒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#油綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#瑞珠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#薛姨媽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白蠟"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黃黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#柳黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#猩猩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#司棋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雪白"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#靛青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#柳五兒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白茫茫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#香菱"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#艷艷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#元"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雨過天晴"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王熙鳳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紫鵑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#赤"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#緇"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#春色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#林黛玉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#劉老老"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#豆綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈蓉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#醉眼"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#史太君"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#血點"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈天祥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#淨白"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#刑岫煙"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#又副冊"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#皚皚"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#麝月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紫絳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白漫漫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑漆漆"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鮮亮"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#銀"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#素淡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紅紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#襲人"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#正冊"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#碧瀏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蔥黃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#閃綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#甄士隱"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紫墨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#灰"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#紫色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秦鯨卿"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#趙姨娘"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#通紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王氏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#石榴紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#桃瓣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#杏子紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#松花綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冷翠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#縞素"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#藕合"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈政"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青金"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#新荔"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#女"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#漆黑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#薛寶琴"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#丹砂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#靠色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#彩色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白膩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈璉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#花"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#玫瑰紫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈敏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#水紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#石頭"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#梅紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#碧清"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#酡"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#魆黑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蔣玉函"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李綺"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#烏油"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#白汪汪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青紫"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王夫人"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#銀霜"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#幻境角色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紅青"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#顏色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈代化"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#霞"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#濃"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#潔白"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#凍臉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秋香色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈迎春"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鶯兒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#桃紅"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#黑色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#寶炬"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈母"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈珍"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#水綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文彩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#碧綠"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#醬色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#脂(白)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#胭脂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#薛蟠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#濃豔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紅赤"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#柳綠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#玄"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#秦鐘"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#烏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雪霜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蒼白"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#藍色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#殘紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#劉姥姥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#玉色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#純素"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蜜合"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#瑩潔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#墨烟"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#素"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#烏壓壓"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#來旺家的"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#松花"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈珠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#果子鋪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#翠潤"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#朱"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#土色"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#火"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#海棠紅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#丹"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#綠(黑)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#青"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#菁蔥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#絳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#翠(黑)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#紅撲撲"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#真實人物"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#賈敬"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#五彩繽紛"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#副冊"/>
+        <Class IRI="#女"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#又副冊"/>
+        <Class IRI="#女"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#土色"/>
+        <Class IRI="#黃色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#女"/>
+        <Class IRI="#真實人物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#幻境角色"/>
+        <Class IRI="#人物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#正冊"/>
+        <Class IRI="#女"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#灰色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#男"/>
+        <Class IRI="#真實人物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#白色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#真實人物"/>
+        <Class IRI="#人物"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#紅色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#素淡"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#紫色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#綠色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#藍色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#醬色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#金色"/>
+        <Class IRI="#黃色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#黃色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#黑色"/>
+        <Class IRI="#顏色"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#紅色"/>
+        <Class IRI="#紫色"/>
+        <Class IRI="#綠色"/>
+        <Class IRI="#藍色"/>
+        <Class IRI="#黃色"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#丹"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#丹砂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#丹霞"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#五彩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#五色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#五采"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#佛青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#真實人物"/>
+        <NamedIndividual IRI="#來旺"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#來旺婦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#來旺家的"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#元"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#光艷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#冷子興"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#冷翠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#凍臉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#刑岫煙"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#劉姥姥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#劉老老"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#史太君"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#史湘雲"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#司棋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#各色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#墨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#墨烟"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#大紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紫色"/>
+        <NamedIndividual IRI="#奼紫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#妙玉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#嫣紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#嬌杏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#嬌豔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#嬌黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#寶炬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#寶珠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#寶色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#寶藍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#寶蟾"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#小紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#尤三姐"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#尤二姐"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#平兒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#彩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#彩色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#微紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#慘淡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#文彩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#斑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#新荔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#春色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#晴雯"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#晶瑩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#月白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#朱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#朱紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#李紈"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#李紋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#李綺"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#李貴"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#杏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#杏子紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#松綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#松花"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#松花綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#林如海"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#林黛玉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#果子鋪"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#柳五兒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#柳綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#柳黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#桃瓣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#桃紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#梅紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#楊妃色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#櫻"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#櫻桃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#殘紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#水紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#水綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#沉黑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#油綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#海棠紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#淡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#淡素"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#淨白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#深"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#淺淡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#淺碧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#漆"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#漆黑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#潔白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#濃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#濃豔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#火"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#灰色"/>
+        <NamedIndividual IRI="#灰"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#烏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#烏壓壓"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#烏油"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#烟青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#燒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#燦爛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#猩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#猩猩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#玄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#玉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#玉色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#玉釧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#王夫人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#王氏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#王熙鳳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#玫瑰"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#玫瑰紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紫色"/>
+        <NamedIndividual IRI="#玫瑰紫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#瑞珠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#瑩潔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#甄士隱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白汪汪"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白淨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白漫漫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白膩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白花花"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白茫茫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#白蠟"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#皂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#皎皎"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#皚皚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#皤"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#石榴紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#石青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#幻境角色"/>
+        <NamedIndividual IRI="#石頭"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#碧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#碧清"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#碧瀏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#碧瑩瑩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#碧綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#碧青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#秋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#秋香色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#秦可卿"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#秦鐘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#秦鯨卿"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#粉紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#粗黑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#紅撲撲"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#紅暈"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#紅潮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#紅紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紫色"/>
+        <NamedIndividual IRI="#紅紫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#紅赤"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#紅青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#純素"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#灰色"/>
+        <NamedIndividual IRI="#紙灰"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#素"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#素淡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#素淨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#素爛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#素白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紫色"/>
+        <NamedIndividual IRI="#紫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#紫墨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#紫絳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#紫鵑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#絳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#幻境角色"/>
+        <NamedIndividual IRI="#絳珠仙草"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#絳紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#緇"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#縞"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#縞素"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#翠潤"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#翠翠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#翡翠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#胭脂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#艷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#艷艷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#花"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#花簇簇"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紫色"/>
+        <NamedIndividual IRI="#茄色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#茜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#茜雪"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#荔色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#菁蔥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#蒼白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#蒼翠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#蓮青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#蔣玉函"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#蔥綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#蔥花綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#蔥黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#薛姨媽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#薛寶琴"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#薛寶釵"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#薛蟠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#藍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#藕合"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#蜜合"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#血"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#血色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#血點"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#襲人"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#豆綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈代化"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈代善"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#賈元春"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈天祥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈寶玉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#賈巧姐"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#賈惜春"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#賈探春"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈政"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈敏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈敬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈母"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈珍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈珠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈瑞"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈璉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈環"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈蓉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#賈迎春"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#賈雨村"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#赤"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人物"/>
+        <NamedIndividual IRI="#趙姨娘"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#趣青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#通紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#酡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#醉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#醉眼"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#醬色"/>
+        <NamedIndividual IRI="#醬色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#金色"/>
+        <NamedIndividual IRI="#金"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#金色"/>
+        <NamedIndividual IRI="#金晃晃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#金色"/>
+        <NamedIndividual IRI="#金紙"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#金釧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#金黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#銀"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#銀紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#銀霜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#錦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#錦重重"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#鐵青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#閃綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#陸離"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#雅淡"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#雜色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#雨過天晴"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#雪"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#雪白"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#雪霜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#白色"/>
+        <NamedIndividual IRI="#霜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#霞"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#場景"/>
+        <NamedIndividual IRI="#青埂峰"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紫色"/>
+        <NamedIndividual IRI="#青紫"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#青綠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#青金"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#青青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#青黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#靛青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#靠色"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#飛紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#副冊"/>
+        <NamedIndividual IRI="#香菱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#鬼臉青"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#魆黑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#鮮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#鮮亮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#鮮妍"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#鮮明"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#鮮紅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#鮮豔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#正冊"/>
+        <NamedIndividual IRI="#鳳姐"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#鴛鴦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#鵝黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#鶯兒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五彩繽紛"/>
+        <NamedIndividual IRI="#麗"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#又副冊"/>
+        <NamedIndividual IRI="#麝月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#黃澄澄"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黃色"/>
+        <NamedIndividual IRI="#黃黃"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#黑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#黑亮"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#黑油油"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#黑漆漆"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#黑鬒鬒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#黑魆魆"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#黑色"/>
+        <NamedIndividual IRI="#黧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#粉(白)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#素淡"/>
+        <NamedIndividual IRI="#素(淡)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#綠(黑)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#綠色"/>
+        <NamedIndividual IRI="#翠(黑)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#紅色"/>
+        <NamedIndividual IRI="#脂(白)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#藍色"/>
+        <NamedIndividual IRI="#蒼(白)"/>
+    </ClassAssertion>
+    <SameIndividual>
+        <NamedIndividual IRI="#來旺婦"/>
+        <NamedIndividual IRI="#來旺家的"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#劉姥姥"/>
+        <NamedIndividual IRI="#劉老老"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#史太君"/>
+        <NamedIndividual IRI="#賈母"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#王氏"/>
+        <NamedIndividual IRI="#薛姨媽"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#王熙鳳"/>
+        <NamedIndividual IRI="#鳳姐"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#玫瑰紅"/>
+        <NamedIndividual IRI="#玫瑰紫"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#縞"/>
+        <NamedIndividual IRI="#縞素"/>
+    </SameIndividual>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#穿戴"/>
+        <NamedIndividual IRI="#賈母"/>
+        <NamedIndividual IRI="#大紅"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#佈景顏色"/>
+        <Class IRI="#場景"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#穿戴"/>
+        <Class IRI="#人物"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#體色"/>
+        <Class IRI="#人物"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#佈景顏色"/>
+        <Class IRI="#顏色"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#穿戴"/>
+        <Class IRI="#顏色"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#體色"/>
+        <Class IRI="#顏色"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

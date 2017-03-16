@@ -1,0 +1,1513 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/ichiro/ontologies/2017/2/untitled-ontology-13"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/ichiro/ontologies/2017/2/untitled-ontology-13">
+    <Prefix name="" IRI="http://www.semanticweb.org/ichiro/ontologies/2017/2/untitled-ontology-13"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#［蕭齊］海陵王蕭昭文（被廢二號）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#山崩"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#事件本身"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#金"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#水"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#更生花葉"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#事件VS事件"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#木"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#騎射兵戈之象"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#造「反縛黃離嘍」帽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#隆昌元年（494）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永明末"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#土"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#積霖"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［劉宋］明帝劉彧"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#眚祥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#（后）〔石〕子崗柏木長二尺四寸，廣四寸半"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#生枝葉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#東昏時，以為裠應在下，而今在上，不祥，斷之"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋泰豫元年，京師祗垣寺皂莢樹枯死"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#閃電"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#時間VS事件"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永明八年（490）四月己巳～十七日"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李子生毛"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#有物如人，長數丈，青色，直上天，有聲如雷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#車駕數游幸"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#巴州城西古樓腳柏柱數百年"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#火"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#地震"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元二年（480）閏月己丑"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建武四年（497）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永泰元年（498）十二月二十九日～永元元年（499）五月二十一日"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#木失其性"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#至建武初，虜大為寇"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#帽裠覆頂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永明元年（483）九月乙丑"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#王朝帝王"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#象徵"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#造「兔子度坑」帽"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#事件地點"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永明二年（484）秋"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#在位"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#或陰或晦"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#民閒制倚勸帽"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#政治事件"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#氣象事件"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元二年（480）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永明中"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#位於"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［蕭齊］明帝蕭鸞"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#朱爵（舟行）華表柱"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永元元年（499）七月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#晝或暫晴"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元三年（481）十一月～建元四年（482）二月"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#伴隨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雹落大如蒜子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元二年（480）閏六月丙戌，戊夜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#世祖崩後，諶建廢立，誅滅諸王"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#木異"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#夜時見星月"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#象徵意象"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#連雨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建武二年（495）二月丁巳"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#造「鳳皇度三橋」帽"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#事件程度"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#土"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#造「山鵲歸林」帽"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雪"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#水"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#忽生花"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［蕭齊］和帝蕭寶融"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#（木）化為石"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#五個月"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#晏尋被誅"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#截梁，水出如淚"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#其他事件"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#事件時間"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#後二年，宮車晏駕"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［蕭齊］鬱林王蕭昭業（被廢一號）"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#發生"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元四年（482）五月戊午朔"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#始興曲江縣"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建武初"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宋氏禪位"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#程度"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王晏子德元所居帷屏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#梁柱際無故出血"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#五行"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#羣下反上之象"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#東安寺"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永元元年（499）九月十九日"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永明十一年（493）四月辛亥"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#火"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#木"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宮內服用射獵錦文"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元元年（479）十月壬午，夜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#虜寇雍州"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永明六年（488）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#及海陵廢，明帝之立"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［劉宋］順帝劉準"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建武中"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雷擊"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#五行"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#服妖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#少日"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冬生葉"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#須臾"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#勸進之事，倚立可待"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#打雷"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#持續"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元元年（479）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#昇明末"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#始安王遙光治廟，截東安寺屋以直廟垣"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#不可描述事件"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#廬陵王子卿齋屋"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#日夜十八震"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元四年（482）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#八十餘日"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#壅底溪水成陂"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#連續"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#導致"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#地五震"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蕭諶開博風帽後裠之製，為破後帽"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#預示"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#［蕭齊］東昏侯蕭寶卷"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#大（舟行）一舶無故自沈，艚中無水"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#事件期間"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文惠太子（蕭長懋）冢上"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#武陵沅頭都尉治有桑樹"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#延興元年（494），海陵王初立"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#雹"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#永元中"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#建元初"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#服妖"/>
+        <Class IRI="#不可描述事件"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#木異"/>
+        <Class IRI="#不可描述事件"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#眚祥"/>
+        <Class IRI="#不可描述事件"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［劉宋］明帝劉彧"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［劉宋］順帝劉準"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［蕭齊］和帝蕭寶融"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［蕭齊］明帝蕭鸞"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［蕭齊］東昏侯蕭寶卷"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［蕭齊］海陵王蕭昭文（被廢二號）"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#［蕭齊］鬱林王蕭昭業（被廢一號）"/>
+        <Class IRI="#事件時間"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#世祖崩後，諶建廢立，誅滅諸王"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件期間"/>
+        <NamedIndividual IRI="#五個月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件期間"/>
+        <NamedIndividual IRI="#八十餘日"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#冬生葉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#象徵意象"/>
+        <NamedIndividual IRI="#勸進之事，倚立可待"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#及海陵廢，明帝之立"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五行"/>
+        <NamedIndividual IRI="#土"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件程度"/>
+        <NamedIndividual IRI="#地五震"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#地震"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#其他事件"/>
+        <NamedIndividual IRI="#壅底溪水成陂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#夜時見星月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#大（舟行）一舶無故自沈，艚中無水"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#始安王遙光治廟，截東安寺屋以直廟垣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#始興曲江縣"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#宋氏禪位"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#宋泰豫元年，京師祗垣寺皂莢樹枯死"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#宮內服用射獵錦文"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件期間"/>
+        <NamedIndividual IRI="#少日"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#山崩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#巴州城西古樓腳柏柱數百年"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#帽裠覆頂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#廬陵王子卿齋屋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］海陵王蕭昭文（被廢二號）"/>
+        <NamedIndividual IRI="#延興元年（494），海陵王初立"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元三年（481）十一月～建元四年（482）二月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元二年（480）"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元二年（480）閏六月丙戌，戊夜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元二年（480）閏月己丑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元元年（479）"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元元年（479）十月壬午，夜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元初"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元四年（482）"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］高帝蕭道成"/>
+        <NamedIndividual IRI="#建元四年（482）五月戊午朔"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］明帝蕭鸞"/>
+        <NamedIndividual IRI="#建武中"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］明帝蕭鸞"/>
+        <NamedIndividual IRI="#建武二年（495）二月丁巳"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］明帝蕭鸞"/>
+        <NamedIndividual IRI="#建武初"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］明帝蕭鸞"/>
+        <NamedIndividual IRI="#建武四年（497）"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#後二年，宮車晏駕"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#忽生花"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#或陰或晦"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#截梁，水出如淚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#打雷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#文惠太子（蕭長懋）冢上"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件程度"/>
+        <NamedIndividual IRI="#日夜十八震"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［劉宋］順帝劉準"/>
+        <NamedIndividual IRI="#昇明末"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#晏尋被誅"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#晝或暫晴"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#更生花葉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#眚祥"/>
+        <NamedIndividual IRI="#有物如人，長數丈，青色，直上天，有聲如雷"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五行"/>
+        <NamedIndividual IRI="#木"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#象徵意象"/>
+        <NamedIndividual IRI="#木失其性"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#朱爵（舟行）華表柱"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#李子生毛"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#東安寺"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#東昏時，以為裠應在下，而今在上，不祥，斷之"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#梁柱際無故出血"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#武陵沅頭都尉治有桑樹"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#民閒制倚勸帽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五行"/>
+        <NamedIndividual IRI="#水"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］東昏侯蕭寶卷"/>
+        <NamedIndividual IRI="#永元中"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］東昏侯蕭寶卷"/>
+        <NamedIndividual IRI="#永元元年（499）七月"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］東昏侯蕭寶卷"/>
+        <NamedIndividual IRI="#永元元年（499）九月十九日"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <NamedIndividual IRI="#永明中"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <NamedIndividual IRI="#永明二年（484）秋"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <NamedIndividual IRI="#永明元年（483）九月乙丑"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <NamedIndividual IRI="#永明八年（490）四月己巳～十七日"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <NamedIndividual IRI="#永明六年（488）"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <NamedIndividual IRI="#永明十一年（493）四月辛亥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］武帝蕭賾"/>
+        <NamedIndividual IRI="#永明末"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］東昏侯蕭寶卷"/>
+        <NamedIndividual IRI="#永泰元年（498）十二月二十九日～永元元年（499）五月二十一日"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五行"/>
+        <NamedIndividual IRI="#火"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#王晏子德元所居帷屏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#生枝葉"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件程度"/>
+        <NamedIndividual IRI="#積霖"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#象徵意象"/>
+        <NamedIndividual IRI="#羣下反上之象"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#至建武初，虜大為寇"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#蕭諶開博風帽後裠之製，為破後帽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#虜寇雍州"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#政治事件"/>
+        <NamedIndividual IRI="#車駕數游幸"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#造「兔子度坑」帽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#造「反縛黃離嘍」帽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#造「山鵲歸林」帽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#服妖"/>
+        <NamedIndividual IRI="#造「鳳皇度三橋」帽"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件程度"/>
+        <NamedIndividual IRI="#連雨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#五行"/>
+        <NamedIndividual IRI="#金"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#閃電"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#［蕭齊］鬱林王蕭昭業（被廢一號）"/>
+        <NamedIndividual IRI="#隆昌元年（494）"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#雨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#雪"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#雷擊"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#氣象事件"/>
+        <NamedIndividual IRI="#雹"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件程度"/>
+        <NamedIndividual IRI="#雹落大如蒜子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件期間"/>
+        <NamedIndividual IRI="#須臾"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#象徵意象"/>
+        <NamedIndividual IRI="#騎射兵戈之象"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#事件地點"/>
+        <NamedIndividual IRI="#（后）〔石〕子崗柏木長二尺四寸，廣四寸半"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#木異"/>
+        <NamedIndividual IRI="#（木）化為石"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#王朝帝王"/>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#象徵"/>
+        <NamedIndividual IRI="#宮內服用射獵錦文"/>
+        <NamedIndividual IRI="#騎射兵戈之象"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#預示"/>
+        <NamedIndividual IRI="#宮內服用射獵錦文"/>
+        <NamedIndividual IRI="#至建武初，虜大為寇"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#導致"/>
+        <NamedIndividual IRI="#帽裠覆頂"/>
+        <NamedIndividual IRI="#東昏時，以為裠應在下，而今在上，不祥，斷之"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#象徵"/>
+        <NamedIndividual IRI="#帽裠覆頂"/>
+        <NamedIndividual IRI="#羣下反上之象"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#延興元年（494），海陵王初立"/>
+        <NamedIndividual IRI="#文惠太子（蕭長懋）冢上"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#延興元年（494），海陵王初立"/>
+        <NamedIndividual IRI="#有物如人，長數丈，青色，直上天，有聲如雷"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#伴隨"/>
+        <NamedIndividual IRI="#建元三年（481）十一月～建元四年（482）二月"/>
+        <NamedIndividual IRI="#或陰或晦"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#在位"/>
+        <NamedIndividual IRI="#建元三年（481）十一月～建元四年（482）二月"/>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#持續"/>
+        <NamedIndividual IRI="#建元三年（481）十一月～建元四年（482）二月"/>
+        <NamedIndividual IRI="#八十餘日"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建元三年（481）十一月～建元四年（482）二月"/>
+        <NamedIndividual IRI="#雪"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#建元二年（480）"/>
+        <NamedIndividual IRI="#武陵沅頭都尉治有桑樹"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建元二年（480）"/>
+        <NamedIndividual IRI="#冬生葉"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#預示"/>
+        <NamedIndividual IRI="#建元二年（480）"/>
+        <NamedIndividual IRI="#後二年，宮車晏駕"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#在位"/>
+        <NamedIndividual IRI="#建元二年（480）閏六月丙戌，戊夜"/>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#在位"/>
+        <NamedIndividual IRI="#建元二年（480）閏月己丑"/>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建元二年（480）閏月己丑"/>
+        <NamedIndividual IRI="#雪"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#建元元年（479）"/>
+        <NamedIndividual IRI="#朱爵（舟行）華表柱"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建元元年（479）"/>
+        <NamedIndividual IRI="#生枝葉"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#在位"/>
+        <NamedIndividual IRI="#建元元年（479）十月壬午，夜"/>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#在位"/>
+        <NamedIndividual IRI="#建元初"/>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建元初"/>
+        <NamedIndividual IRI="#李子生毛"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#建元四年（482）"/>
+        <NamedIndividual IRI="#巴州城西古樓腳柏柱數百年"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建元四年（482）"/>
+        <NamedIndividual IRI="#忽生花"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#在位"/>
+        <NamedIndividual IRI="#建元四年（482）五月戊午朔"/>
+        <NamedIndividual IRI="#［蕭齊］高帝蕭道成"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建元四年（482）五月戊午朔"/>
+        <NamedIndividual IRI="#雹"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建武中"/>
+        <NamedIndividual IRI="#帽裠覆頂"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建武二年（495）二月丁巳"/>
+        <NamedIndividual IRI="#地震"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#伴隨"/>
+        <NamedIndividual IRI="#建武初"/>
+        <NamedIndividual IRI="#始安王遙光治廟，截東安寺屋以直廟垣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#建武初"/>
+        <NamedIndividual IRI="#東安寺"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#建武初"/>
+        <NamedIndividual IRI="#截梁，水出如淚"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#昇明末"/>
+        <NamedIndividual IRI="#宋泰豫元年，京師祗垣寺皂莢樹枯死"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#昇明末"/>
+        <NamedIndividual IRI="#更生花葉"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#預示"/>
+        <NamedIndividual IRI="#昇明末"/>
+        <NamedIndividual IRI="#宋氏禪位"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#象徵"/>
+        <NamedIndividual IRI="#民閒制倚勸帽"/>
+        <NamedIndividual IRI="#勸進之事，倚立可待"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#預示"/>
+        <NamedIndividual IRI="#民閒制倚勸帽"/>
+        <NamedIndividual IRI="#及海陵廢，明帝之立"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永元中"/>
+        <NamedIndividual IRI="#大（舟行）一舶無故自沈，艚中無水"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永元中"/>
+        <NamedIndividual IRI="#造「兔子度坑」帽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永元中"/>
+        <NamedIndividual IRI="#造「反縛黃離嘍」帽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永元中"/>
+        <NamedIndividual IRI="#造「山鵲歸林」帽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永元中"/>
+        <NamedIndividual IRI="#造「鳳皇度三橋」帽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永元元年（499）七月"/>
+        <NamedIndividual IRI="#地震"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#程度"/>
+        <NamedIndividual IRI="#永元元年（499）七月"/>
+        <NamedIndividual IRI="#日夜十八震"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永元元年（499）九月十九日"/>
+        <NamedIndividual IRI="#地震"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#程度"/>
+        <NamedIndividual IRI="#永元元年（499）九月十九日"/>
+        <NamedIndividual IRI="#地五震"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明中"/>
+        <NamedIndividual IRI="#宮內服用射獵錦文"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明中"/>
+        <NamedIndividual IRI="#蕭諶開博風帽後裠之製，為破後帽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#永明二年（484）秋"/>
+        <NamedIndividual IRI="#始興曲江縣"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#導致"/>
+        <NamedIndividual IRI="#永明二年（484）秋"/>
+        <NamedIndividual IRI="#壅底溪水成陂"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明二年（484）秋"/>
+        <NamedIndividual IRI="#山崩"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#持續"/>
+        <NamedIndividual IRI="#永明元年（483）九月乙丑"/>
+        <NamedIndividual IRI="#須臾"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明元年（483）九月乙丑"/>
+        <NamedIndividual IRI="#雹"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#程度"/>
+        <NamedIndividual IRI="#永明元年（483）九月乙丑"/>
+        <NamedIndividual IRI="#雹落大如蒜子"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#伴隨"/>
+        <NamedIndividual IRI="#永明八年（490）四月己巳～十七日"/>
+        <NamedIndividual IRI="#夜時見星月"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#伴隨"/>
+        <NamedIndividual IRI="#永明八年（490）四月己巳～十七日"/>
+        <NamedIndividual IRI="#晝或暫晴"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明八年（490）四月己巳～十七日"/>
+        <NamedIndividual IRI="#雨"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#程度"/>
+        <NamedIndividual IRI="#永明八年（490）四月己巳～十七日"/>
+        <NamedIndividual IRI="#積霖"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#程度"/>
+        <NamedIndividual IRI="#永明八年（490）四月己巳～十七日"/>
+        <NamedIndividual IRI="#連雨"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#伴隨"/>
+        <NamedIndividual IRI="#永明六年（488）"/>
+        <NamedIndividual IRI="#車駕數游幸"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#永明六年（488）"/>
+        <NamedIndividual IRI="#（后）〔石〕子崗柏木長二尺四寸，廣四寸半"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明六年（488）"/>
+        <NamedIndividual IRI="#（木）化為石"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#象徵"/>
+        <NamedIndividual IRI="#永明六年（488）"/>
+        <NamedIndividual IRI="#木失其性"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#持續"/>
+        <NamedIndividual IRI="#永明十一年（493）四月辛亥"/>
+        <NamedIndividual IRI="#須臾"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明十一年（493）四月辛亥"/>
+        <NamedIndividual IRI="#雹"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#程度"/>
+        <NamedIndividual IRI="#永明十一年（493）四月辛亥"/>
+        <NamedIndividual IRI="#雹落大如蒜子"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永明末"/>
+        <NamedIndividual IRI="#民閒制倚勸帽"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#永泰元年（498）十二月二十九日～永元元年（499）五月二十一日"/>
+        <NamedIndividual IRI="#雨"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#預示"/>
+        <NamedIndividual IRI="#永泰元年（498）十二月二十九日～永元元年（499）五月二十一日"/>
+        <NamedIndividual IRI="#虜寇雍州"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#預示"/>
+        <NamedIndividual IRI="#蕭諶開博風帽後裠之製，為破後帽"/>
+        <NamedIndividual IRI="#世祖崩後，諶建廢立，誅滅諸王"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#位於"/>
+        <NamedIndividual IRI="#隆昌元年（494）"/>
+        <NamedIndividual IRI="#廬陵王子卿齋屋"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#發生"/>
+        <NamedIndividual IRI="#隆昌元年（494）"/>
+        <NamedIndividual IRI="#梁柱際無故出血"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#預示"/>
+        <NamedIndividual IRI="#雨"/>
+        <NamedIndividual IRI="#虜寇雍州"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#伴隨"/>
+        <ObjectProperty IRI="#事件VS事件"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#位於"/>
+        <ObjectProperty IRI="#事件本身"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#在位"/>
+        <ObjectProperty IRI="#時間VS事件"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#導致"/>
+        <ObjectProperty IRI="#事件VS事件"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#持續"/>
+        <ObjectProperty IRI="#事件本身"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#發生"/>
+        <ObjectProperty IRI="#時間VS事件"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#程度"/>
+        <ObjectProperty IRI="#事件本身"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#象徵"/>
+        <ObjectProperty IRI="#事件本身"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#連續"/>
+        <ObjectProperty IRI="#事件VS事件"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#預示"/>
+        <ObjectProperty IRI="#事件VS事件"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#位於"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#位於"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#位於"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#位於"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#在位"/>
+        <Class IRI="#事件時間"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#持續"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#持續"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#持續"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#持續"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#發生"/>
+        <Class IRI="#事件時間"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#程度"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#程度"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#程度"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#程度"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#象徵"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#象徵"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#象徵"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#象徵"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#伴隨"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#位於"/>
+        <Class IRI="#事件地點"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#在位"/>
+        <Class IRI="#王朝帝王"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#導致"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#持續"/>
+        <Class IRI="#事件期間"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#發生"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#發生"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#發生"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#程度"/>
+        <Class IRI="#事件程度"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#象徵"/>
+        <Class IRI="#象徵意象"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#連續"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#不可描述事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#其他事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#政治事件"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#預示"/>
+        <Class IRI="#氣象事件"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#土"/>
+        <DataProperty IRI="#五行"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#木"/>
+        <DataProperty IRI="#五行"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#水"/>
+        <DataProperty IRI="#五行"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#火"/>
+        <DataProperty IRI="#五行"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#金"/>
+        <DataProperty IRI="#五行"/>
+    </SubDataPropertyOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

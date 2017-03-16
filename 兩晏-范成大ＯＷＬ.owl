@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/wuyuyan/ontologies/2017/2/untitled-ontology-7"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/wuyuyan/ontologies/2017/2/untitled-ontology-7">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#城名"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#呼沱河"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#護龍河"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#漸水"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#金水河"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#墓"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#松醪"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#果園"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#欒城"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#雙廟"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#橙綱"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#雎水"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#渡淮"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#趙故城"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#州橋"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#橋"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#扁鵲墓"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#趙州石橋"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#虞姬墓"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#白溝"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#唐山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#藺相如墓"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#內丘梨園"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#廟"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#伊尹墓"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#耶律侍郎"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#西瓜園"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#京城"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#光武廟"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#酒名"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#七十二塚"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#河"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#雷萬春墓"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#龍津橋"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#汴河"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#盧溝"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#山"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#講武城"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#琉璃河"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#文王廟"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#大寧河"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#留侯廟"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#人名"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#七十二塚"/>
+        <Class IRI="#墓"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#京城"/>
+        <Class IRI="#城名"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#伊尹墓"/>
+        <Class IRI="#墓"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#光武廟"/>
+        <Class IRI="#廟"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#內丘梨園"/>
+        <Class IRI="#果園"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#呼沱河"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#唐山"/>
+        <Class IRI="#山"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#大寧河"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#州橋"/>
+        <Class IRI="#橋"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#扁鵲墓"/>
+        <Class IRI="#墓"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#文王廟"/>
+        <Class IRI="#廟"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#松醪"/>
+        <Class IRI="#酒名"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#橙綱"/>
+        <Class IRI="#果園"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#欒城"/>
+        <Class IRI="#城名"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#汴河"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#渡淮"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#漸水"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#琉璃河"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#留侯廟"/>
+        <Class IRI="#廟"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#白溝"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#盧溝"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#耶律侍郎"/>
+        <Class IRI="#人名"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#藺相如墓"/>
+        <Class IRI="#墓"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#虞姬墓"/>
+        <Class IRI="#墓"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#西瓜園"/>
+        <Class IRI="#果園"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#講武城"/>
+        <Class IRI="#城名"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#護龍河"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#趙州石橋"/>
+        <Class IRI="#橋"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#趙故城"/>
+        <Class IRI="#城名"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#金水河"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#雎水"/>
+        <Class IRI="#河"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#雙廟"/>
+        <Class IRI="#廟"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#雷萬春墓"/>
+        <Class IRI="#墓"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#龍津橋"/>
+        <Class IRI="#橋"/>
+    </SubClassOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
