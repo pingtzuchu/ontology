@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/pingtzuhu/ontologies/2016/10/nthucl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/pingtzuhu/ontologies/2016/10/nthucl">
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Declaration>
+        <Class IRI="#人員"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#學生"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#必修"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#教師"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#清華大學北區中國文學系"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#行政人員"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#課程"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#選修"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#修習"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#教授"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#中國思想史"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#侯道儒"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#劉人鵬"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#劉承慧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#徐千惠"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文字學"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李威寰"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李欣鍚"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#李貞慧"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#林修全"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#林聰舜"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#楊佳嫻"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#楊儒賓"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#王鴻馨"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#莊子"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蔡英俊"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#許漢祥"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#許貞蒂"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#許銘全"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#鍋島亞朱華"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陳淑芬"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陳珏"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#陶謝詩"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#顏健富"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黃冠雲"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#人員"/>
+        <Class IRI="#清華大學北區中國文學系"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#學生"/>
+        <Class IRI="#人員"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#必修"/>
+        <Class IRI="#課程"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#教師"/>
+        <Class IRI="#人員"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#行政人員"/>
+        <Class IRI="#人員"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#課程"/>
+        <Class IRI="#清華大學北區中國文學系"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#選修"/>
+        <Class IRI="#課程"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#必修"/>
+        <NamedIndividual IRI="#中國思想史"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#侯道儒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#劉人鵬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#劉承慧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行政人員"/>
+        <NamedIndividual IRI="#徐千惠"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#課程"/>
+        <NamedIndividual IRI="#文字學"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#學生"/>
+        <NamedIndividual IRI="#李威寰"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#李欣鍚"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#李貞慧"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#學生"/>
+        <NamedIndividual IRI="#林修全"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#林聰舜"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#楊佳嫻"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#楊儒賓"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#行政人員"/>
+        <NamedIndividual IRI="#王鴻馨"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#選修"/>
+        <NamedIndividual IRI="#莊子"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#蔡英俊"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#學生"/>
+        <NamedIndividual IRI="#許漢祥"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#學生"/>
+        <NamedIndividual IRI="#許貞蒂"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#許銘全"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#鍋島亞朱華"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#陳淑芬"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#陳珏"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#選修"/>
+        <NamedIndividual IRI="#陶謝詩"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#顏健富"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#教師"/>
+        <NamedIndividual IRI="#黃冠雲"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#修習"/>
+        <NamedIndividual IRI="#李威寰"/>
+        <NamedIndividual IRI="#中國思想史"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#教授"/>
+        <NamedIndividual IRI="#楊儒賓"/>
+        <NamedIndividual IRI="#中國思想史"/>
+    </ObjectPropertyAssertion>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#修習"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#教授"/>
+    </TransitiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#修習"/>
+        <Class IRI="#學生"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#教授"/>
+        <Class IRI="#教師"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#修習"/>
+        <Class IRI="#課程"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#教授"/>
+        <Class IRI="#課程"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
