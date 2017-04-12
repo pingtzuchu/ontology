@@ -5,9 +5,18 @@ import module namespace functx="http://www.functx.com" at "functx.xql";
 let $bu := doc("SKQSTree.xml")/listBibl/listBibl
 let $author := functx:distinct-deep($bu//author)
 let $date := functx:distinct-deep($bu//date)
-let $roleName := functx:distinct-deep($author/persName/roleName)
+let $roleName := functx:distinct-deep($bu//author/persName/roleName)
+let $start := ('作者', '書籍', '朝代')
 return
-    <div>{for $p in $author
+    <div>
+    {(:設定起始類別:)
+    for $p in $start
+    return
+        <Declaration><Class>{attribute IRI{$start}}</Class></Declaration>}
+    {(:設定起始注腳、資料屬性、物件屬性:)
+    （）
+    }
+    {for $p in $author
         return
             <ClassAssertion>
                  <Class>
@@ -18,8 +27,7 @@ return
                 </NamedIndividual>
             </ClassAssertion>
     }</div>
-(:    
-    <div>{(:
+    (:
         {for $p in $roleName
         return
             <div>
@@ -51,8 +59,8 @@ return
             attribute datatypeIRI {"http://www.w3.org/2001/XMLSchema#string"},
             data($p/@n)}}}
             </div>
-        :)()}
-        {(:for $p in $author
+        ()}
+        {for $p in $author
         return
             <div>
             <Declaration>
@@ -71,7 +79,7 @@ return
                 </Literal>
             </DataPropertyAssertion>
             </div>
-        :)()}
+        }
         {for $leishu in $bu//listBibl
         return
             <div>
