@@ -1,0 +1,851 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://webprotege.stanford.edu/project/BsWKFRINtMemPDFKFb6Bu"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://webprotege.stanford.edu/project/BsWKFRINtMemPDFKFb6Bu">
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R76Ew1w875uRmQk4wM2H3uF"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7f1k01CCEzM420SjwnMgKv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBvw5jxksu9uEu1R3eJodBq"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RC0UXzHpo3VXi1uuXjy2vpb"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDDPwRFKD8itySrJYX1fote"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RhcOZ5gm6wBm3kiwzwj9ue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#名臣"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#名號"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#封號"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#帝王"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#私謚"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#謚號"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R1v3LexVP2lfHfWM43fqrw"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8WSgVVUzWIQcIaKzh4NGnS"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8ahQUneQzt0xNVcdJYGC0P"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9CHOsBsdb7qnTmogxdudtF"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9E5FNrnN5n3BE49TTWokOZ"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9YF89ZITpv9uUzyIbt2oW4"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9iFW4jkIWieISO00zU5nhs"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBUaRWtVO26MXPlMVjHWfhT"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBnrjYTXzRv0aUI8OW5ewrK"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBqgCjb2Tyj64BhnHfH9cGf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDuw0d1c9zvdj8tvMziETsU"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDzQaey8P5KsQJHGnWb1dfN"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RL01t5F2YEAAxlJTGsoN9q"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RyUaBjmcdZNPm5c5KDndHs"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#丈人"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#丈母"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#五服"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#伯"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#伯叔姑"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#伯叔祖姑"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#伯姆"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#兄嫂"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#兄弟"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#兄弟姊妹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#公公"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#叔"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#叔嬸"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#堂伯叔姑"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#堂兄弟姊妹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#堂姪子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#堂姪孫女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#外大父"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#外祖母"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#外祖父"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#外祖父母"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#女婿"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#妹夫"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姊夫"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姊妹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姑"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姑丈"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姨"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姨丈"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姪子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#姪孫子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#媳婦"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#孫子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#弟妹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#從伯叔祖姑"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#從堂伯叔姑"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#從堂兄弟姊妹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#從堂姪子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#族兄弟姊妹"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#曾伯叔祖姑"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#曾姪孫女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#曾孫子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#曾祖父母"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#玄孫子女"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#祖母"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#祖父母"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#舅"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#舅妗"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#舅姨"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#高祖父母"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#𡟖𡟖"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8fYoNqjjmqbdTIgW0dWWgE"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDhHGQ1zfszCCzAE34xcHTm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RUNqet096tmXakYIhZuNK2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RX0vjWyqRjiOjxEljzGkJG"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#忠定"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文定"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#文忠"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R76Ew1w875uRmQk4wM2H3uF"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7f1k01CCEzM420SjwnMgKv"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBvw5jxksu9uEu1R3eJodBq"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RC0UXzHpo3VXi1uuXjy2vpb"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDDPwRFKD8itySrJYX1fote"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RhcOZ5gm6wBm3kiwzwj9ue"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#名臣"/>
+        <Class IRI="#謚號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#封號"/>
+        <Class IRI="#名號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#帝王"/>
+        <Class IRI="#謚號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#私謚"/>
+        <Class IRI="#謚號"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#謚號"/>
+        <Class IRI="#名號"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RhcOZ5gm6wBm3kiwzwj9ue"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/R8fYoNqjjmqbdTIgW0dWWgE"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RhcOZ5gm6wBm3kiwzwj9ue"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RDhHGQ1zfszCCzAE34xcHTm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RhcOZ5gm6wBm3kiwzwj9ue"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RUNqet096tmXakYIhZuNK2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://webprotege.stanford.edu/RhcOZ5gm6wBm3kiwzwj9ue"/>
+        <NamedIndividual IRI="http://webprotege.stanford.edu/RX0vjWyqRjiOjxEljzGkJG"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#名臣"/>
+        <NamedIndividual IRI="#忠定"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#名臣"/>
+        <NamedIndividual IRI="#文"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#名臣"/>
+        <NamedIndividual IRI="#文定"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#名臣"/>
+        <NamedIndividual IRI="#文忠"/>
+    </ClassAssertion>
+    <EquivalentObjectProperties>
+        <ObjectProperty IRI="#外大父"/>
+        <ObjectProperty IRI="#外祖父"/>
+    </EquivalentObjectProperties>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R1v3LexVP2lfHfWM43fqrw"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9E5FNrnN5n3BE49TTWokOZ"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8WSgVVUzWIQcIaKzh4NGnS"/>
+        <ObjectProperty IRI="#祖父母"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8ahQUneQzt0xNVcdJYGC0P"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9CHOsBsdb7qnTmogxdudtF"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9E5FNrnN5n3BE49TTWokOZ"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9iFW4jkIWieISO00zU5nhs"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9YF89ZITpv9uUzyIbt2oW4"/>
+        <ObjectProperty IRI="#兄弟"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9iFW4jkIWieISO00zU5nhs"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBUaRWtVO26MXPlMVjHWfhT"/>
+        <ObjectProperty IRI="#子女"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBnrjYTXzRv0aUI8OW5ewrK"/>
+        <ObjectProperty IRI="#兄弟"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBqgCjb2Tyj64BhnHfH9cGf"/>
+        <ObjectProperty IRI="#子女"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9CHOsBsdb7qnTmogxdudtF"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9CHOsBsdb7qnTmogxdudtF"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDuw0d1c9zvdj8tvMziETsU"/>
+        <ObjectProperty IRI="#姊妹"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDzQaey8P5KsQJHGnWb1dfN"/>
+        <ObjectProperty IRI="#姊妹"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RL01t5F2YEAAxlJTGsoN9q"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8ahQUneQzt0xNVcdJYGC0P"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9E5FNrnN5n3BE49TTWokOZ"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RyUaBjmcdZNPm5c5KDndHs"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R8ahQUneQzt0xNVcdJYGC0P"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#丈人"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#丈母"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#五服"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R1v3LexVP2lfHfWM43fqrw"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#伯"/>
+        <ObjectProperty IRI="#伯叔姑"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#伯叔姑"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#伯叔祖姑"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#伯姆"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#兄嫂"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#兄弟"/>
+        <ObjectProperty IRI="#兄弟姊妹"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#兄弟姊妹"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#公公"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#叔"/>
+        <ObjectProperty IRI="#伯叔姑"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#叔嬸"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#堂伯叔姑"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#堂兄弟姊妹"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#堂姪子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#堂姪孫女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#外大父"/>
+        <ObjectProperty IRI="#外祖父母"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#外祖母"/>
+        <ObjectProperty IRI="#外祖父母"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#外祖父"/>
+        <ObjectProperty IRI="#外祖父母"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#外祖父母"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R1v3LexVP2lfHfWM43fqrw"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#女婿"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#妹夫"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姊夫"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姊妹"/>
+        <ObjectProperty IRI="#兄弟姊妹"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姑"/>
+        <ObjectProperty IRI="#伯叔姑"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姑丈"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姨"/>
+        <ObjectProperty IRI="#舅姨"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姨丈"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姪子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#姪孫子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#媳婦"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#孫子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#弟妹"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#從伯叔祖姑"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#從堂伯叔姑"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#從堂兄弟姊妹"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#從堂姪子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#族兄弟姊妹"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#曾伯叔祖姑"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#曾姪孫女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#曾孫子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#曾祖父母"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#玄孫子女"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#祖母"/>
+        <ObjectProperty IRI="#祖父母"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#祖父母"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#舅"/>
+        <ObjectProperty IRI="#舅姨"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#舅妗"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#舅姨"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R1v3LexVP2lfHfWM43fqrw"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#高祖父母"/>
+        <ObjectProperty IRI="#五服"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#𡟖𡟖"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9YF89ZITpv9uUzyIbt2oW4"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RBnrjYTXzRv0aUI8OW5ewrK"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDuw0d1c9zvdj8tvMziETsU"/>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/RDzQaey8P5KsQJHGnWb1dfN"/>
+    </InverseObjectProperties>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#兄弟姊妹"/>
+    </SymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9iFW4jkIWieISO00zU5nhs"/>
+        <Class IRI="http://webprotege.stanford.edu/RBvw5jxksu9uEu1R3eJodBq"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://webprotege.stanford.edu/R9iFW4jkIWieISO00zU5nhs"/>
+        <Class IRI="http://webprotege.stanford.edu/RBvw5jxksu9uEu1R3eJodBq"/>
+    </ObjectPropertyRange>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC"/>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/R9YF89ZITpv9uUzyIbt2oW4"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#叔"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC"/>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RBnrjYTXzRv0aUI8OW5ewrK"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#伯"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC"/>
+            <ObjectProperty IRI="#兄弟姊妹"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#伯叔姑"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC"/>
+            <ObjectProperty IRI="#姊妹"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#姑"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm"/>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#外大父"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm"/>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#外祖母"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm"/>
+            <ObjectProperty IRI="#兄弟"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#舅"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectPropertyChain>
+            <ObjectProperty IRI="http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm"/>
+            <ObjectProperty IRI="#姊妹"/>
+        </ObjectPropertyChain>
+        <ObjectProperty IRI="#姨"/>
+    </SubObjectPropertyOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R1v3LexVP2lfHfWM43fqrw</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">血親</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R76Ew1w875uRmQk4wM2H3uF</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">行政區域</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7f1k01CCEzM420SjwnMgKv</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">朝代</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8WSgVVUzWIQcIaKzh4NGnS</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">大父</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8ahQUneQzt0xNVcdJYGC0P</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">配偶</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8fYoNqjjmqbdTIgW0dWWgE</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">先生</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9CHOsBsdb7qnTmogxdudtF</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">父母</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9E5FNrnN5n3BE49TTWokOZ</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">親屬關係</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9YF89ZITpv9uUzyIbt2oW4</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">弟</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9iFW4jkIWieISO00zU5nhs</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">人際閞係</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBUaRWtVO26MXPlMVjHWfhT</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">女</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBnrjYTXzRv0aUI8OW5ewrK</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">兄</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBqgCjb2Tyj64BhnHfH9cGf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">子</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBvw5jxksu9uEu1R3eJodBq</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">人物</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC0UXzHpo3VXi1uuXjy2vpb</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">官職</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCJ67orlPu7Ae4kr9QlMpiC</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">父</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCeLsmTf8bIJdNf3gHlVETm</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">母</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDDPwRFKD8itySrJYX1fote</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">時間</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDhHGQ1zfszCCzAE34xcHTm</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">子</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDuw0d1c9zvdj8tvMziETsU</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">姊</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDzQaey8P5KsQJHGnWb1dfN</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">妹</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RL01t5F2YEAAxlJTGsoN9q</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">妻</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RUNqet096tmXakYIhZuNK2</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">氏</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RX0vjWyqRjiOjxEljzGkJG</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">公</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RffwJnH7BShDJ6JJUOHqOY</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">姻親</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RhcOZ5gm6wBm3kiwzwj9ue</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">稱呼</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RyUaBjmcdZNPm5c5KDndHs</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">夫</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
