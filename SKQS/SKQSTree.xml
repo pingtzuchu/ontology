@@ -1604,7 +1604,7 @@
 <bibl><title xml:id="book1544">野菜博錄</title><author xml:id="au2548"><persName>鮑山<addName n="字">元則</addName><addName n="號">不詳</addName><roleName>撰</roleName></persName><date n="63">明</date></author></bibl>
 <bibl><title xml:id="book1545">欽定授時通考</title><author xml:id="au1595"><persName>鄂爾泰<addName n="字">毅庵</addName><addName n="號">西林</addName><addName n="號">文端</addName><roleName>撰（官修）</roleName></persName><date n="67">清</date></author><author xml:id="au1694"><persName>張廷玉<addName n="字">衡臣</addName><addName n="號">研齋</addName><addName n="號">勤宣</addName><addName n="號">澄怀主人</addName><roleName>撰（官修）</roleName></persName><date n="67">清</date></author><author xml:id="au1919"><persName>董誥<addName n="字">雅倫</addName><addName n="字">西享</addName><addName n="號">蔗林</addName><addName n="號">柘林</addName><addName n="號">文恭</addName><roleName>補編耕織圖（官修）</roleName></persName><date n="67">清</date></author><author xml:id="au2574"><persName>戴衢亨<addName n="字">荷之</addName><addName n="號">蓮士</addName><roleName>補編耕織圖（官修）</roleName></persName><date n="67">清</date></author></bibl>
 </listBibl>
-<listBibl><head>醫家類</head><bibl><title xml:id="book1546">黃帝內經素問　　</title><author xml:id="au58"><persName>王冰<addName n="字">不詳</addName><addName n="號">啟玄子</addName><addName n="號">王太僕</addName><roleName>次註</roleName></persName><date n="30">唐</date></author><author xml:id="au853"><persName>林億<addName n="字">不詳</addName><addName n="號">不詳</addName><roleName>校正</roleName></persName><date n="52">北宋</date></author></bibl>
+<listBibl><head>醫家類</head><bibl><title xml:id="book1546">黃帝內經素問</title><author xml:id="au58"><persName>王冰<addName n="字">不詳</addName><addName n="號">啟玄子</addName><addName n="號">王太僕</addName><roleName>次註</roleName></persName><date n="30">唐</date></author><author xml:id="au853"><persName>林億<addName n="字">不詳</addName><addName n="號">不詳</addName><roleName>校正</roleName></persName><date n="52">北宋</date></author></bibl>
 <bibl><title xml:id="book1547">靈樞經</title><author xml:id="au58"><persName>王冰<addName n="字">不詳</addName><addName n="號">啟玄子</addName><addName n="號">王太僕</addName><roleName>註</roleName></persName><date n="30">唐</date></author><author xml:id="au287"><persName>史崧<addName n="字">不詳</addName><addName n="號">不詳</addName><roleName>校正音釋</roleName></persName><date n="51">宋</date></author></bibl>
 <bibl><title xml:id="book1548">難經本義</title><author xml:id="au1102"><persName>秦越人<addName n="字">不詳</addName><addName n="號">扁鵲</addName><addName n="號">盧醫</addName><roleName>撰</roleName></persName><date n="4">戰國</date></author><author xml:id="au2039"><persName>滑壽<addName n="字">伯仁</addName><addName n="號">攖寧生</addName><roleName>註</roleName></persName><date n="61">元</date></author></bibl>
 <bibl><title xml:id="book1549">鍼灸甲乙經</title><author xml:id="au1024"><persName>皇甫謐<addName n="字">士安</addName><addName n="字">靜</addName><addName n="號">玄宴</addName><roleName>撰</roleName></persName><date n="15">西晉</date></author><author xml:id="au1281"><persName>高保衡<addName n="字">不詳</addName><addName n="號">不詳</addName><roleName>校註</roleName></persName><date n="51">宋</date></author><author xml:id="au853"><persName>林億<addName n="字">不詳</addName><addName n="號">不詳</addName><roleName>校註</roleName></persName><date n="52">北宋</date></author></bibl>
@@ -3838,9 +3838,5 @@
 </listBibl>
 </listBibl>
 </listBibl>
-<listBibl><head>附錄</head>
 
-
-
-</listBibl>
 </listBibl>
