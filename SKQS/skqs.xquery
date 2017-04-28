@@ -1,10 +1,12 @@
 xquery version "3.0";
 
-import module namespace functx="http://www.functx.com" at "functx.xql";
+import module namespace  functx = "http://www.functx.com" at 'functx.xql';
 
 let $bu := doc("SKQSTree.xml")/listBibl/listBibl
+(:
 let $author := functx:distinct-deep($bu//author)
 let $date := functx:distinct-deep($bu//date)
+<<<<<<< HEAD
 let $roleName := functx:distinct-deep($bu//author/persName/roleName)
 let $start := ('作者', '書籍', '朝代')
 return
@@ -17,17 +19,68 @@ return
     （）
     }
     {for $p in $author
+=======
+let $roleName := functx:distinct-deep($bu//persName/roleName)
+:)
+for $book in $bu//bibl
+return 
+    <ClassAssertion>
+        <Class>{attribute IRI{"#"||$book/../head/text()}}</Class>
+        <NamedIndividual>{attribute IRI{"#"||$book/title/text()||"_"||data($book/title/@xml:id)}}</NamedIndividual>
+    </ClassAssertion>
+    
+    
+(:
+    <div>
+    {for $leishu in $bu//listBibl
+    return
+        <div>
+            <Declaration><Class>{attribute IRI{"#"||data($leishu/head)}}</Class></Declaration>
+            <SubClassOf>
+                <Class>{attribute IRI{"#"||data($leishu/head)}}</Class>
+                <Class>{attribute IRI{"#"||data($leishu/../head)}}</Class>
+            </SubClassOf>
+            {for $book in $leishu/bibl
+            return
+                <div>
+                    <Declaration>
+                        <NamedIndividual>{attribute IRI{"#"||data($book/title)||"_"||data($book/title/@xml:id)}}</NamedIndividual>
+                    </Declaration>
+
+                    {for $author in $book/author
+                    return
+                    <ObjectPropertyAssertion>
+                        <ObjectProperty>{attribute IRI{"#"||data($author/persName/roleName)}}</ObjectProperty>
+                        <NamedIndividual>{attribute IRI{"#"||$author/persName/text()}}</NamedIndividual>
+                        <NamedIndividual>{attribute IRI{"#"||data($book/title)||"_"||data($book/title/@xml:id)}}</NamedIndividual>
+                    </ObjectPropertyAssertion>}
+                </div>
+            }
+        </div>
+    }
+    </div>       <div>{for $p in $author
+        for $pp in $p/persName/addName
+>>>>>>> origin/newskqs
         return
-            <ClassAssertion>
-                 <Class>
-                    {attribute IRI{"#"||$p/date/text()}}
-                </Class>
+            <div>
+            <DataPropertyAssertion>
+                 <DataProperty>
+                    {attribute IRI{"#"||data($pp/@n)||"為"}}
+                </DataProperty>
                 <NamedIndividual>
                     {attribute IRI{"#"||$p/persName/text()}}
                 </NamedIndividual>
-            </ClassAssertion>
+                <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#string">
+                    {data($pp)}
+                </Literal>                
+            </DataPropertyAssertion>
+            </div>
     }</div>
+<<<<<<< HEAD
     (:
+=======
+    <div>{
+>>>>>>> origin/newskqs
         {for $p in $roleName
         return
             <div>
@@ -59,7 +112,11 @@ return
             attribute datatypeIRI {"http://www.w3.org/2001/XMLSchema#string"},
             data($p/@n)}}}
             </div>
+<<<<<<< HEAD
         ()}
+=======
+        }
+>>>>>>> origin/newskqs
         {for $p in $author
         return
             <div>
